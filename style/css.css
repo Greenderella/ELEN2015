@@ -3,7 +3,7 @@
 
 
 body{ font-family: 'PT Sans', sans-serif; background: url(../image/bg.png)0 0 repeat-x; width:100%px; height:970px;}
-h2 , .h2 { font-family: 'Fredericka the Great', cursive; }
+h2 , .h2 { font-family: 'Fredericka the Great', cursive; font-size: 140%;}
 
 a{ color: #69842B; text-decoration:none; font-weight: 700;}
 a:hover{ color:#9db949; text-decoration:underline;}
