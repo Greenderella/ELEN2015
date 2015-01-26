@@ -1,7 +1,7 @@
 @charset "utf-8";
 
-body{ font-family: 'PT Sans', sans-serif; background: url(../image/bg.png)0 0 repeat-x; width:100%px; height:970px;}
-h2 , .h2 { font-family: 'Fredericka the Great', cursive; font-size: 140%;}
+body{ font-family: 'PT Sans', sans-serif; font-size: 18px; background: url(../image/bg.png)0 0 repeat-x; height:970px;}
+h2 , .h2 { font-family: 'Fredericka the Great', cursive; font-size: 26px;}
 
 a{ color: #69842B; text-decoration:none; font-weight: 700;}
 a:hover{ color:#9db949; text-decoration:underline;}
@@ -11,47 +11,13 @@ a:hover{ color:#9db949; text-decoration:underline;}
 .logo img{ margin-top: 10px; float:right; height: 190px;}
 .menu, .footer{ background:#222222; border-radius: 3px; width:960px; color: #FFF;}
 .menu { height: 85px; }
-.logo h2{ font-weight:100; font-size:11px; float:right; margin-top:70px; opacity:0.5;}
-.logo h2 a{ font-weight:100; font-size:11px; float:right; margin-top:20px; opacity:0.5; color:#222222; text-decoration:none;}
 .wrap { margin: 1em 3em; }
-.sliader { margin-top: 2em; }
-.sliader h2{ font-weight: 400; text-align: center; font-size: 70px; }
-.sliader img{ float:left; width: 40%; margin-right: 3em; height: auto; border: 3px solid black; }
-.sliader div{ width:50%; float:left;}
-.sliader p a{ font-size:17px; font-weight:bold; color:#7a9933;}
+.slider { margin-top: 2em; }
+.slider h2{ font-weight: 400; text-align: center; font-size: 70px; }
+.slider img{ float:left; width: 40%; margin-right: 3em; height: auto; border: 3px solid black; }
+.slider div{ width: 52%; float:left;}
 .line{width:960px;height:10px;color:#000;display:block;margin-top:5px;}
 .clear {clear:both;width:100%;line-height:0;font-size:0 ; margin-left:0;}
-.lih{border-left:1px groove #cccccc; border-right:1px groove #cccccc; height:311px; width:275px; padding-left:5px; padding-right:30px;}	
-.textr h3{ font-size:14px; font-weight:lighter; margin-bottom:8px; color:#9abf40;}
-.textr{ margin-top:58px; margin-left:-10px; width:280px;}
-.textr p{ font-size:14px; font-weight:lighter; margin-bottom:17px; padding-right:20px;}
-.textr p a{font-weight:bold; color:#7a9933;}
-.textr a{ font-weight:200; font-size:12px;color:#9abf40; }
-.textr ul ul li a{ font-size:14px; color:#222222; text-decoration:none; }
-.textr ul ul li a img{ margin-top:3px;}
-.textr ul ul { margin-left:-15px;}
-.textr ul ul li a:hover{ text-decoration:underline;}
-.textr ul ul li{ border-bottom:1px; margin-left:30px; margin-right:30px; padding-left:0px; width:250px;}
-.textr ul ul li:first-child+li+li+li{ border-bottom:0px;}
-.xz a{ font-size:13px; color:#95ad5c; margin-left:30px;}
-.fua h2{ font-size:23px; font-weight:200; padding-top:24px; margin-bottom:10px;}	
-.fua p{ font-size:14px/23px; font-weight:lighter; margin-bottom:-51px;}
-.fua{ margin-top:20px;}
-.fua li:first-child{ width:610px; margin-top:-20px;}
-.fua li {float:left;}
-.fua li p input{ margin-bottom:-20px; width:212px; height:25px;}
-.fua li h2 input{ height:24px; width:40px; margin-left:212px;background:#9db949; padding:0px; color:#ffffff; margin-top:-53px; padding-bottom:23px; padding-top:5px;}
-value{ background:#9db949;}
-.fua p a{ font-size:17px; font-weight:bold; color:#7a9933;}
-.send1{ width:316px; height:160px; border:1px solid  #cccccc; padding-left:30px;}	
-.send1 h2{ font-size:23px; font-weight:200; padding-top:24px; margin-bottom:10px;}
-.send1 h3{ color:#222222; font-weight:100; margin-left:6px; font-size:13px; font-weight:lighter; margin-bottom:20px; color:#000000;}
-.menu1{ background:#222222;border-radius:3px; width:960px; height:35px; margin:0 auto}
-.menu1 ul{ margin-left:22px; margin-right:150px;}
-.menu1 li a{ float:left; color:#FFF; font-size:13px; margin-top:9px; margin-left:10px; margin-right:10px; background:url(../image/top.png); text-decoration:none;}
-.menu1 li a:hover{ color:#9db949; text-decoration:underline;}
-.menu1  p{ font-size:11px; font-weight: lighter; color:#FFF; padding-top:10px; float:right; margin-right:40px; }
-.menu1  h2{ font-size:11px; font-weight: lighter; color:#95ad5c; padding-top:10px; float:right; margin-right:3px;}
 .column { float: left; width: 50%; }
 .column > div { padding: 0 1em;}
 .column ul { list-style: square inside; }
