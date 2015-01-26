@@ -7,8 +7,8 @@ a{ color: #69842B; text-decoration:none; font-weight: 700;}
 a:hover{ color:#9db949; text-decoration:underline;}
 
 .best{ width:960px; margin: 0 auto;}
-.logo{ width:960px; height: 220px; margin:0 auto;}
-.logo img{ margin-top: 10px; float:right; height: 190px;}
+.logo{ width: 100%; height: 220px; text-align: center;}
+.logo img{ margin-top: 10px; height: 190px;}
 .menu, .footer{ background:#222222; border-radius: 3px; width:960px; color: #FFF;}
 .menu { height: 85px; }
 .wrap { margin: 1em 3em; }
