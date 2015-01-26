@@ -29,7 +29,7 @@
 		</a>
 	  </li>
 	  <li>
-		<a>
+		<a href="#">
 			<img src="image/2.jpg" alt=""/>
 			<span class="sdt_active"></span>
 			<span class="sdt_wrap">
@@ -167,6 +167,23 @@
 		<script type="text/javascript" src="jquery.easing.1.3.js"></script>
         <script type="text/javascript">
             $(function() {
+				function detectmob() { //Si venis desde un celular
+				 if( navigator.userAgent.match(/Android/i)
+				 || navigator.userAgent.match(/webOS/i)
+				 || navigator.userAgent.match(/iPhone/i)
+				 || navigator.userAgent.match(/iPad/i)
+				 || navigator.userAgent.match(/iPod/i)
+				 || navigator.userAgent.match(/BlackBerry/i)
+				 || navigator.userAgent.match(/Windows Phone/i)
+				 ){
+					return true;
+				  }
+				 else {
+					return false;
+				  }
+				}
+			
+			
 				/**
 				* for each menu element, on mouseenter, 
 				* we enlarge the image, and show both sdt_active span and 
@@ -174,7 +191,7 @@
 				* then we slide it - if the element is the last one in the menu
 				* we slide it to the left, otherwise to the right
 				*/
-                $('#sdt_menu > li').bind('mouseenter',function(){
+                $('#sdt_menu > li').bind(detectmob() ? 'click': 'mouseenter',function(){
 					var $elem = $(this);
 					$elem.find('img')
 						 .stop(true)
