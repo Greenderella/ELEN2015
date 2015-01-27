@@ -6,6 +6,7 @@
 		<link href="style/reset.css" rel="stylesheet" type="text/css" />
 		<link href="style/css.css" rel="stylesheet" type="text/css" />
 		<link href="style/dropdownstyle.css" rel="stylesheet" type="text/css" />
+		<link href="style/slider.css" rel="stylesheet" type="text/css" />
 		<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Fredericka+the+Great' rel='stylesheet' type='text/css'>
 		<link href="favicon.ico" rel="icon" type="image/png">
@@ -159,12 +160,19 @@
 					</div>
 				</div>
 				<div class="clear"></div>
-				<div class="slider">
+				<div class="info">
 					<h2>V ELEN</h2>
-					<div class="image">
-						<img src="image/portada.png" title="Pariposa" />
+					<div id="slider">
+						<a class="control_next">></a>
+						<a class="control_prev"><</a>
+						<ul>
+							<li><img src="image/portada.png" title="Pariposa" /></li>
+							<li><img src="image/portada.png" title="Pariposa" /></li>
+							<li><img src="image/portada.png" title="Pariposa" /></li>
+							<li><img src="image/portada.png" title="Pariposa" /></li>
+						</ul>  
 					</div>
-					<div class="info">
+					<div class="text">
 						<p>
 							Por primera vez, el ELEN se realiza en Argentina, en una de las provincias con mayor diversidad de ambientes del país. Será una oportunidad inmejorable para aquellos que desean conocerla, así como también para los que desean volver. También va a ser una buena oportunidad para consolidar la participación de todos los vinculados a este tema en la región, integrando a nuevos participantes a esta “red lepidopterológica” y dando continuidad a lo realizado en encuentros anteriores.
 							El programa científico sigue una estructura similar a la de encuentros anteriores y se espera que la interacción entre los participantes se vea favorecida por el desarrollo del evento en la Residencia Universitaria de Horco Molle, enclavada en corazón de del cerro San Javier, rodeada de una vegetación exuberante y muchas mariposas. 
@@ -183,6 +191,37 @@
 	<script type="text/javascript" src="jquery.easing.1.3.js"></script>
 	<script type="text/javascript">
 		$(function() {
+			var slideCount = $('#slider ul li').length;
+			var slideWidth = $('#slider ul li').width();
+			var sliderUlWidth = slideCount * slideWidth;
+
+			$('#slider ul li').css({ width: 100/slideCount + "%" });
+			$('#slider ul').css({ width: sliderUlWidth, marginLeft: - slideWidth });
+			
+			$('#slider ul li:last-child').prependTo('#slider ul');
+
+			function moveLeft() {
+				$('#slider ul').animate({
+					left: + slideWidth
+				}, 200, function () {
+					$('#slider ul li:last-child').prependTo('#slider ul');
+					$('#slider ul').css('left', '');
+				});
+			};
+
+			function moveRight() {
+				$('#slider ul').animate({
+					left: - slideWidth
+				}, 200, function () {
+					$('#slider ul li:first-child').appendTo('#slider ul');
+					$('#slider ul').css('left', '');
+				});
+			};
+
+			$('#slider a.control_prev').click(moveLeft);
+			$('#slider a.control_next').click(moveRight);
+			//setInterval(moveRight, 3000);
+
 			function detectmob() { //Si venis desde un celular
 				if( navigator.userAgent.match(/Android/i)
 					|| navigator.userAgent.match(/webOS/i)
