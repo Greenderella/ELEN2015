@@ -23,8 +23,8 @@ a:hover{ color:#9db949; text-decoration:underline;}
 .column { float: left; width: 50%; }
 .column > div { padding: 0 1em;}
 .column ul { list-style: square inside; }
-.title img { height: 100%; width: auto;}
-.title { height: 76px; vertical-align: middle;}
+.title img { height: 75px; width: auto;}
+.title { height: 80px; vertical-align: middle; padding: 5px;}
 .footer { margin-top: 1em; padding: 1em; text-align: right;}
 
 @media (max-width : 960px) {
