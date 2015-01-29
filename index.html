@@ -166,10 +166,11 @@
 						<a class="control_next">></a>
 						<a class="control_prev"><</a>
 						<ul>
-							<li><img src="image/portada.png" title="Pariposa" /></li>
-							<li><img src="image/portada.png" title="Pariposa" /></li>
-							<li><img src="image/portada.png" title="Pariposa" /></li>
-							<li><img src="image/portada.png" title="Pariposa" /></li>
+							<li><img src="image/car1.jpg" title="Pariposa" /></li>
+							<li><img src="image/car2.jpg" title="Pariposa" /></li>
+							<li><img src="image/car3.jpg" title="Pariposa" /></li>
+							<li><img src="image/car4.jpg" title="Pariposa" /></li>
+							<li><img src="image/car5.jpg" title="Pariposa" /></li>
 						</ul>  
 					</div>
 					<div class="text">
@@ -195,7 +196,6 @@
 			var slideWidth = $('#slider ul li').width();
 			var sliderUlWidth = slideCount * slideWidth;
 
-			$('#slider ul li').css({ width: 100/slideCount + "%" });
 			$('#slider ul').css({ width: sliderUlWidth, marginLeft: - slideWidth });
 			
 			$('#slider ul li:last-child').prependTo('#slider ul');
@@ -220,7 +220,7 @@
 
 			$('#slider a.control_prev').click(moveLeft);
 			$('#slider a.control_next').click(moveRight);
-			//setInterval(moveRight, 3000);
+			setInterval(moveRight, 3000);
 
 			function detectmob() { //Si venis desde un celular
 				if( navigator.userAgent.match(/Android/i)

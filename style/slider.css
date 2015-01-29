@@ -24,6 +24,7 @@
   background: #ccc;
   text-align: center;
   line-height: 300px;
+  width: 341px;
 }
 
 #slider a.control_prev, a.control_next {
