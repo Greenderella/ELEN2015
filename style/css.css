@@ -1,21 +1,24 @@
 @charset "utf-8";
 
 body{ font-family: 'PT Sans', sans-serif; font-size: 18px; background: url(../image/bg.png)0 0 repeat-x; height:970px;}
-h2 , .h2 { font-family: 'Fredericka the Great', cursive; font-size: 26px;}
+h2, h1 , .h2 { font-family: 'Fredericka the Great', cursive; font-size: 26px; font-weight: 200}
 
 a{ color: #69842B; text-decoration:none; font-weight: 700;}
 a:hover{ color:#9db949; text-decoration:underline;}
 
 .best{ width:960px; margin: 0 auto;}
-.logo{ width: 50%; margin: 10px auto;}
-.logo img{ margin-top: 10px;}
+.logo div{ width: 960px; height: 200px; margin: 30px auto 10px auto; text-align: center;}
+.logo h1 { color: #000; font-size: 55px; }
+.logo h2 { font-family: 'PT Sans', sans-serif; }
+.logo img{ float: right; height: 100%; width: auto;}
+.logo:hover{ text-decoration: none; }
 .sidebar { position: fixed; top: 40%; left:-1px; padding:1em;}
 .sidebar img { width:40px; height: auto; margin-top: 7px; display: table-cell; }
 .menu, .footer{ background:#222222; border-radius: 3px; color: #FFF;}
 .menu { width:960px; height: 85px; }
 .wrap { margin: 1em 3em; }
 .info { margin-top: 1em; }
-.info h2{ font-weight: 400; text-align: center; font-size: 70px; margin-bottom: 10px;}
+.info h2{ font-weight: 400; text-align: center; font-size: 50px; letter-spacing: 17px;  margin-bottom: 10px;}
 .info .image{ float:left; width: 40%; margin-right: 3em; height: auto; border: 3px solid black; display: block;}
 .info .text{ width: 50%; float: right;}
 .line{width:960px;height:10px;color:#000;display:block;margin-top:5px;}
@@ -28,7 +31,8 @@ a:hover{ color:#9db949; text-decoration:underline;}
 .footer { margin-top: 1em; padding: 1em; text-align: right;}
 
 @media (max-width : 960px) {
-	.logo{ width: 100%; }
+	.logo div{ width: 100%; height: auto; }
+	.logo img { height: 100px; float:none; }
 	.column { float: none; width:100%; }
 	.info #slider{ display: none; }
 	.info .text{ width: 100%; }
