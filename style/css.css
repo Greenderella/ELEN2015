@@ -16,9 +16,7 @@ a:hover{ color:#9db949; text-decoration:underline;}
 .sidebar img { width:40px; height: auto; margin-top: 7px; display: table-cell; }
 .menu, .footer{ background:#222222; border-radius: 3px; color: #FFF;}
 .menu { width:960px; height: 85px; }
-.wrap { margin: 1em 3em; }
 .info { margin-top: 1em; }
-.info h2{ font-weight: 400; text-align: center; font-size: 50px; letter-spacing: 17px;  margin-bottom: 10px;}
 .info .image{ float:left; width: 40%; margin-right: 3em; height: auto; border: 3px solid black; display: block;}
 .info .text{ width: 50%; float: right;}
 .line{width:960px;height:10px;color:#000;display:block;margin-top:5px;}
@@ -29,6 +27,23 @@ a:hover{ color:#9db949; text-decoration:underline;}
 .title img { height: 75px; width: auto;}
 .title { height: 80px; vertical-align: middle; padding: 5px;}
 .footer { margin-top: 1em; padding: 1em; text-align: right;}
+
+.printSolo{ padding: 1em 3em; }
+.printSolo h2{ font-weight: 400; text-align: center; font-size: 50px; letter-spacing: 17px;  margin-bottom: 10px;}
+.printSolo:nth-child(even){ background-color: rgba(100,100,100,.1); }
+.printSolo ul{ list-style-position: inside; }
+
+/* Cronogramas */
+.wrap  table tr:first-child, .wrap table td:first-child { text-align: center; background-color: #ccc; }
+.wrap table td { padding: 3px; border: 1px solid black; }
+
+@media print {
+	.best{ width: 100%; }
+	.menu, .sidebar , .logo, .footer{ display: none;  }
+	div.printSolo{ height: auto; page-break-after: always; }
+	div.printSolo:nth-child(even){ background-color: white; }
+	body{ font-size: 12px; background: none; }
+}
 
 @media (max-width : 960px) {
 	.logo div{ width: 100%; height: auto; }

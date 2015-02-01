@@ -1,3 +1,7 @@
+ul.sdt_menu{
+	list-style: none;
+}
+
 ul.sdt_menu li{
 	float:left;
 	width: 137px;
