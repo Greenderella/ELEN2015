@@ -32,10 +32,11 @@ a:hover{ color:#9db949; text-decoration:underline;}
 .printSolo h2{ font-weight: 400; text-align: center; font-size: 50px; letter-spacing: 17px;  margin-bottom: 10px;}
 .printSolo:nth-child(even){ background-color: rgba(100,100,100,.1); }
 .printSolo ul{ list-style-position: inside; }
-
 /* Cronogramas */
 .wrap  table tr:first-child, .wrap table td:first-child { text-align: center; background-color: #ccc; }
 .wrap table td { padding: 3px; border: 1px solid black; }
+
+.action{ float: right; width: 40px; height: auto; margin: 1em; }
 
 @media print {
 	.best{ width: 100%; }
