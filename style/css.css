@@ -1,16 +1,16 @@
 @charset "utf-8";
 
-body{ font-family: 'PT Sans', sans-serif; font-size: 18px; background: url(../image/bg.png)0 0 repeat-x; }
-h2, h1 , .h2 { font-family: 'Fredericka the Great', cursive; font-size: 26px; font-weight: 200}
+body{ font-family: 'PT Sans', sans-serif; font-size: 18px; url(../image/bg.png)0 0 repeat-x; }
+h2, h1, .h2 { font-family: 'Fredericka the Great', cursive; font-size: 26px; font-weight: 200}
 
 a{ color: #69842B; text-decoration:none; font-weight: 700;}
 a:hover{ color:#9db949; text-decoration:underline;}
 
 .best{ width:960px; margin: 0 auto;}
-.logo div{ width: 960px; height: 200px; margin: 30px auto 10px auto; text-align: center;}
+.logo div{ width: 960px; margin: 30px auto 10px auto; text-align: center;}
 .logo h1 { color: #000; font-size: 55px; }
-.logo h2 { font-family: 'PT Sans', sans-serif; }
-.logo img{ float: right; height: 100%; width: auto;}
+.logo h3 { font-size: 30px; }
+.logo h2, .logo h3 { font-family: 'PT Sans', sans-serif; }
 .logo:hover{ text-decoration: none; }
 .sidebar { position: fixed; top: 40%; left:-1px; padding:1em;}
 .sidebar img { width:40px; height: auto; margin-top: 7px; display: table-cell; }
@@ -28,12 +28,13 @@ a:hover{ color:#9db949; text-decoration:underline;}
 .title { height: 80px; vertical-align: middle; padding: 5px;}
 .footer { margin-top: 1em; padding: 1em; text-align: right;}
 .center{ text-align: center; }
+.fancy img{ position: absolute; z-index: -1; height: auto; width: calc((100% - 800px)/2); width: -moz-calc((100% - 800px)/2);width: -webkit-calc((100% - 800px)/2); width: -o-calc((100% - 800px)/2); opacity: 0.3; }
 
 .printSolo{ padding: 1em 3em; }
 .printSolo h2{ font-weight: 400; text-align: center; font-size: 50px; letter-spacing: 12px;  margin-bottom: 10px;}
 .printSolo:nth-child(even){ background-color: rgba(100,100,100,.1); }
 .printSolo ul{ list-style-position: inside; }
-/* Cronogramas */
+
 .wrap  table tr:first-child, .wrap table td:first-child { text-align: center; background-color: #ccc; }
 .wrap table td { padding: 3px; border: 1px solid black; }
 
@@ -44,10 +45,13 @@ a:hover{ color:#9db949; text-decoration:underline;}
 	.menu, .sidebar , .logo, .footer{ display: none;  }
 	div.printSolo{ height: auto; page-break-after: always; }
 	div.printSolo:nth-child(even){ background-color: white; }
+	.fancy { display: none; }
+
 	body{ font-size: 12px; background: none; }
 }
 
 @media (max-width : 960px) {
+	.fancy img{ position: absolute; z-index: -1; height: auto; width: 50%; opacity: 0.3; }
 	.logo div{ width: 100%; height: auto; }
 	.logo img { height: 100px; float:none; }
 	.column { float: none; width:100%; }
