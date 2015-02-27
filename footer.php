@@ -1,5 +1,5 @@
 <div class="footer">
-				<p>Me reservo el <a>derecho</a>, iei</p>
+				<p>Todos los <a>derechos</a> reservados</p>
 			</div>
 		</div>
 	</body>
