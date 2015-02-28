@@ -8,6 +8,8 @@
 				</a>
 				<h2 id="sede">Sede y Alojamiento</h2>
 				<br />
+				<br />
+				<img src="image/mapa.jpg" alt=""/>
 				<div class="center">
 					<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAvXtELHnaI1iowEa6A0oM5WZ8neOWeZKE&q=Universidad+Nacional+de+Tucuman:+Residencias+Universitarias"></iframe>
 				</div>

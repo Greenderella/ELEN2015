@@ -8,7 +8,7 @@
 		<link href="style/dropdownstyle.css" rel="stylesheet" type="text/css" />
 		<link href="style/slider.css" rel="stylesheet" type="text/css" />
 		<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Fredericka+the+Great' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Cinzel+Decorative' rel='stylesheet' type='text/css'>
 		<link href="favicon.ico" rel="icon" type="image/png">
 	</head>
 		
@@ -64,7 +64,7 @@
 						</div>
 					</li>
 					<li>
-						<a href="#">
+						<a href="inscripciones.php">
 						<img src="image/3.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
@@ -79,7 +79,7 @@
 						</div>
 					</li>
 					<li>
-						<a href="#">
+						<a href="colectas.php">
 							<img src="image/4.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
@@ -88,12 +88,12 @@
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="#">Colectas científicas en Argentina</a>
-							<a href="#">Viaje de campo</a>
+							<a href="colectas.php#Viajes">Viaje de campo</a>
+							<a href="colectas.php#Colectas">Colectas científicas en Argentina</a>
 						</div>
 					</li>
 					<li>
-						<a href="#">
+						<a href="circulares.php">
 							<img src="image/5.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">

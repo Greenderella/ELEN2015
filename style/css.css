@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{ font-family: 'PT Sans', sans-serif; font-size: 18px; url(../image/bg.png)0 0 repeat-x; }
-h2, h1, .h2 { font-family: 'Fredericka the Great', cursive; font-size: 26px; font-weight: 700}
+h2, h1, .h2 { font-family: 'Cinzel Decorative', cursive; font-size: 28px; }
 
 a{ color: #69842B; text-decoration:none; }
 a:hover{ color:#9db949; text-decoration:underline;}
@@ -31,7 +31,7 @@ a:hover{ color:#9db949; text-decoration:underline;}
 .fancy img{ position: absolute; z-index: -1; height: auto; width: calc((100% - 800px)/2); width: -moz-calc((100% - 800px)/2);width: -webkit-calc((100% - 800px)/2); width: -o-calc((100% - 800px)/2); opacity: 0.3; }
 
 .printSolo{ padding: 1em 3em; }
-.printSolo h2{ text-align: center; font-size: 50px; letter-spacing: 12px;  margin-bottom: 10px;}
+.printSolo h2{ text-align: center; font-size: 38px; letter-spacing: 12px;  margin-bottom: 10px;}
 .printSolo:nth-child(even){ background-color: rgba(100,100,100,.1); }
 .printSolo ul{ list-style-position: inside; }
 
