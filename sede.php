@@ -3,15 +3,9 @@
 ?>
 			<div class="wrap">
 				<div class="printSolo">
-				<a href="https://www.google.com.ar/maps/place/Corralo+Horco+Molle/@-26.844034,-65.2983599,14z/data=!4m2!3m1!1s0x9422433a31b56a65:0x61404a7e0396d3fb">
-					<img class="action" src="image/world.png"/>
-				</a>
 				<h2 id="sede">Sede y Alojamiento</h2>
-				<br />
-				<br />
-				<img src="image/mapa.jpg" alt=""/>
 				<div class="center">
-					<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAvXtELHnaI1iowEa6A0oM5WZ8neOWeZKE&q=Universidad+Nacional+de+Tucuman:+Residencias+Universitarias"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28494.766676145216!2d-65.32130045327358!3d-26.78118373232256!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x90a02775248f080a!2sUniversidad+Nacional+de+Tucuman%3A+Residencias+Universitarias!5e0!3m2!1sen!2sar!4v1425160281784" width="600" height="450" frameborder="0" style="border:0"></iframe>
 				</div>
 				</div>
 			</div>
