@@ -59,7 +59,7 @@
 						<div class="sdt_box">
 							<a href="cronograma.php#Areas">Areas temáticas</a>
 							<a href="cronograma.php#">Propuesta de simposios</a>
-							<a href="cronograma.php#">Modalidades</a>
+							<a href="cronograma.php#Modalidades">Modalidades</a>
 							<a href="cronograma.php#Cronograma">Cronograma</a>
 						</div>
 					</li>

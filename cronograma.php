@@ -14,6 +14,16 @@
 				</div>
 				
 				<div class="printSolo">
+				<h2 id="Areas">Modalidades</h2>
+					<ul>
+						<li>Presentaciones orales</li>
+						<li>Simposios</li>
+						<li>Mesas Redondas</li>
+						<li>Posters</li>
+					</ul>
+				</div>
+				
+				<div class="printSolo">
 					<a href="javascript:window.print();">
 						<img class="action" src="image/print.png"/>
 					</a>
