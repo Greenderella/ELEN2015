@@ -13,6 +13,9 @@
 	</head>
 		
 	<body>
+	
+		<?php include_once("analyticstracking.php") ?>
+	
 		<div class="fancy"><img src="image/fondo.png"></div>
 		<a href="index.php" class="logo">
 			<div>
