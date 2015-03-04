@@ -25,11 +25,10 @@ a:hover{ color:#9db949; text-decoration:underline;}
 .column > div { padding: 0 1em;}
 .column ul { list-style: square inside; }
 .title img { height: 75px; width: auto;}
-.title { height: 80px; vertical-align: middle; padding: 5px; text-transform: uppercase; }
+.title { height: 80px; vertical-align: middle; padding: 5px;}
 .footer { margin-top: 1em; padding: 1em; text-align: right;}
 .center{ text-align: center; }
 .fancy img{ position: absolute; z-index: -1; height: auto; width: calc((100% - 800px)/2); width: -moz-calc((100% - 800px)/2);width: -webkit-calc((100% - 800px)/2); width: -o-calc((100% - 800px)/2); opacity: 0.3; }
-.lang{ position: absolute; top: 0; right:1em; }
 
 .printSolo{ padding: 1em 3em; }
 .printSolo h2{ text-align: center; font-size: 38px; letter-spacing: 12px;  margin-bottom: 20px;}

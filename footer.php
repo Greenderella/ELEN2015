@@ -1,5 +1,5 @@
 <div class="footer">
-				<p><?php echo $L["footer"]["rights"]; ?></p>
+				<p>Todos los <a>derechos</a> reservados</p>
 			</div>
 		</div>
 	</body>
