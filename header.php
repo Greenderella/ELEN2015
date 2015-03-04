@@ -14,27 +14,31 @@
 		
 	<body>
 	
-		<?php include_once("analyticstracking.php") ?>
+		<?php
+			include_once("analyticstracking.php");
+			include_once("translation.php");
+		?>
 	
 		<div class="fancy"><img src="image/fondo.png"></div>
+		<div class="lang"><a href="?lang=es"><?php echo $L["header"]["esp"]; ?></a> / <a href="?lang=us"><?php echo $L["header"]["eng"]; ?></a></div>
 		<a href="index.php" class="logo">
 			<div>
-				<h1>V Encuentro de Lepidoptera Neotropicales</h1>
-				<h3>Biodiversidad, Ecología, Evolución y Conservación</h3>
-				<h2>16-20 de Noviembre de 2015</h2>
-				<h2>Tucumán, Argentina</h2>
+				<h1><?php echo $L["header"]["title"]; ?></h1>
+				<h3><?php echo $L["header"]["subtitle"]; ?></h3>
+				<h2><?php echo $L["header"]["date"]; ?></h2>
+				<h2><?php echo $L["header"]["place"]; ?></h2>
 			</div>
 		</a>
 		<div class="clear"></div>
 		<div class="sidebar">
 			<div>
 				<a target="_blank" href="https://www.facebook.com/5toELEN">
-					<img src="image/facebook-logo.png" title="Página de Facebook"/>
+					<img src="image/facebook-logo.png" title="<?php echo $L["header"]["fb"]; ?>"/>
 				</a>
 			</div>
 			<div>
-				<a target="_blank" href="https://www.google.com.ar/maps/place/Universidad+Nacional+de+Tucuman:+Residencias+Universitarias/@-26.777295,-65.330656,12z/data=!4m2!3m1!1s0x0:0x90a02775248f080a?sa=X&ei=2cXwVMLGBq_CsASK3YBo&ved=0CKQBEPwSMA0">
-					<img src="image/google-maps-logo.png" title="Mapa en Google"/>
+				<a target="_blank" href="https://www.google.com/maps/place/Universidad+Nacional+de+Tucuman:+Residencias+Universitarias/@-26.777295,-65.330656,12z/data=!4m2!3m1!1s0x0:0x90a02775248f080a?sa=X&ei=2cXwVMLGBq_CsASK3YBo&ved=0CKQBEPwSMA0">
+					<img src="image/google-maps-logo.png" title="<?php echo $L["header"]["maps"]; ?>"/>
 				</a>
 			</div>
 		</div>
@@ -46,7 +50,7 @@
 							<img src="image/1.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Inicio</span>
+								<span class="sdt_link"><?php echo $L["header"]["home"]; ?></span>
 							</span>
 						</a>
 					</li>
@@ -60,10 +64,10 @@
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="cronograma.php#Areas">Areas temáticas</a>
-							<a href="cronograma.php#">Propuesta de simposios</a>
-							<a href="cronograma.php#Modalidades">Modalidades</a>
-							<a href="cronograma.php#Cronograma">Cronograma</a>
+							<a href="cronograma.php#Areas"><?php echo $L["header"]["theme"]; ?></a>
+							<a href="cronograma.php#"><?php echo $L["header"]["proposal"]; ?></a>
+							<a href="cronograma.php#Modalidades"><?php echo $L["header"]["mode"]; ?></a>
+							<a href="cronograma.php#Cronograma"><?php echo $L["header"]["schedule"]; ?></a>
 						</div>
 					</li>
 					<li>
@@ -71,14 +75,14 @@
 						<img src="image/3.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Inscripciones</span>
-								<span class="sdt_descr">y Resúmenes</span>
+								<span class="sdt_link"><?php echo $L["header"]["registrations"]; ?></span>
+								<span class="sdt_descr"><?php echo $L["header"]["summaries"]; ?></span>
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="#">Costos y forma de pago</a>
-							<a href="#">Formulario de inscripción</a>
-							<a href="#">Envío de resúmenes</a>
+							<a href="#"><?php echo $L["header"]["costs"]; ?></a>
+							<a href="#"><?php echo $L["header"]["inscForm"]; ?></a>
+							<a href="#"><?php echo $L["header"]["sendSumm"]; ?></a>
 						</div>
 					</li>
 					<li>
@@ -86,13 +90,13 @@
 							<img src="image/4.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Colectas</span>
-								<span class="sdt_descr">y Viajes</span>
+								<span class="sdt_link"><?php echo $L["header"]["trips"]; ?></span>
+								<span class="sdt_descr"><?php echo $L["header"]["collects"]; ?></span>
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="colectas.php#Viajes">Viaje de campo</a>
-							<a href="colectas.php#Colectas">Colectas científicas en Argentina</a>
+							<a href="colectas.php#Viajes"><?php echo $L["header"]["fieldTrip"]; ?></a>
+							<a href="colectas.php#Colectas"><?php echo $L["header"]["argCollects"]; ?></a>
 						</div>
 					</li>
 					<li>
@@ -100,12 +104,12 @@
 							<img src="image/5.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Circulares</span>
-								<span class="sdt_descr">1 de 1</span>
+								<span class="sdt_link"><?php echo $L["header"]["circulars"]; ?></span>
+								<span class="sdt_descr"><?php echo $L["header"]["circularsNum"]; ?></span>
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="#">1<sup>era</sup> Circular</a>
+							<a href="#"><?php echo $L["header"]["1circular"]; ?></a>
 						</div>
 					</li>
 					<li>
@@ -113,8 +117,8 @@
 							<img src="image/6.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Sede</span>
-								<span class="sdt_descr">y Alojamiento</span>
+								<span class="sdt_link"><?php echo $L["header"]["venue"]; ?></span>
+								<span class="sdt_descr"><?php echo $L["header"]["accommodations"]; ?></span>
 							</span>
 						</a>
 					</li>
@@ -123,7 +127,7 @@
 							<img src="image/7.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Contacto</span>
+								<span class="sdt_link"><?php echo $L["header"]["contact"]; ?></span>
 								<span class="sdt_descr"></span>
 							</span>
 						</a>
