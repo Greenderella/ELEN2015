@@ -48,8 +48,7 @@
 		
 		
 		
-		$message =	"Gracias! recibimos su inscripcion\n".
-							"Estos son los datos que nos han sido proposrcionados.\n".
+		$message =	"Hemos recibido satisfactoriamente los siguientes datos para su inscripción:\n".
 							"----------------\n".
 							"Nombre: {$_POST['nombre']}\n".
 							"Mail: {$_POST['mail']}\n".
@@ -66,7 +65,8 @@
 							"Carácter de su participación: {$_POST['caracter']}\n".
 							"Facturación: {$_POST['facturacion']}\n".
 							"-----------------\n".
-							"Cualquier consulta o cambio, hagalo a elen2015inscripciones@gmail.com.\n";
+							"Cualquier consulta o cambio, no dude en contactarse a elen2015inscripciones@gmail.com.\n"
+							"Atte. organización V ELEN.\n";
 		
 		// multipart boundary 
         $message =  "--{$mime_boundary}\n" . "Content-Type: text/plain; charset=\"iso-8859-1\"\n" . "Content-Transfer-Encoding: 7bit\n\n" . $message . "\n\n"; 
@@ -84,7 +84,7 @@
 		//send the email 
 		$mail_sent = @mail( $to, $subject, $message, $headers, "-f" . $sender ); 
 		//if the message is sent successfully print "Mail sent". Otherwise print "Mail failed" 
-		echo $mail_sent ? "Mail mandado" : "Algo fallo"; 		
+		echo $mail_sent ? "Mail enviado" : "Algo fallo"; 		
 		
 	} else {
 	include "header.php";
