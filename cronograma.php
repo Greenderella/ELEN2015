@@ -7,7 +7,7 @@
 				Como ejes conductores del evento, se proponen las siguientes áreas temáticas:
 					<ul>
 						<li>Sistemática, morfología y biodiversidad de Heterocera</li>
-						<li>Sistemática, morfología y biodiversidad de Rophalocera</li>
+						<li>Sistemática, morfología y biodiversidad de Rhopalocera</li>
 						<li>Ecología, biogeografía, conservación y evolución</li>
 						<li>Lepidópteros de importancia para el hombre</li>
 					</ul>
@@ -18,7 +18,6 @@
 					<ul>
 						<li>Presentaciones orales</li>
 						<li>Simposios</li>
-						<li>Mesas Redondas</li>
 						<li>Posters</li>
 					</ul>
 				</div>

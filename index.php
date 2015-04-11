@@ -15,7 +15,7 @@
 								</div>
 								<h3>ELEN 2015</h3>
 								<p>
-									Se encuentra disponible el programa tentativo para el V ELEN a realizarse del 16 al 20 de Nociembre de 2015 en la Residencia Universitaria de Horco Molle, Tucumán. <a href="#">Más...</a>
+									Se encuentra disponible la primera circular para el próximo ELEN<a href="#">Más...</a>
 								</p>
 							</div>
 						</div>
