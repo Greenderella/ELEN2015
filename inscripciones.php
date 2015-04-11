@@ -61,7 +61,7 @@ Content-Transfer-Encoding: 7bit
 <?php echo print_r( $_POST ); ?>
 
 --PHP-mixed-<?php echo $random_hash; ?>  
-Content-Type: image; name="attachment.zip"  
+Content-Type: image/<?php echo $type_of_uploaded_file; ?>; name="<?php echo $name_of_uploaded_file; ?>"  
 Content-Transfer-Encoding: base64  
 Content-Disposition: attachment  
 
