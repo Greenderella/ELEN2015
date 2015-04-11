@@ -1,5 +1,7 @@
 <?php
 	if( isset($_POST['do']) ){	
+		print_r( $_POST );
+	
 		//Settings
 		$to = 'j@florius.com.ar'; 
 		$subject = 'Test email with attachment';
@@ -50,25 +52,25 @@
 		//define the body of the message. 
 
 		ob_start(); //Turn on output buffering 
-?> 
---PHP-mixed-<?php echo $random_hash; ?>  
-Content-Type: multipart/alternative; boundary="PHP-alt-<?php echo $random_hash; ?>" 
+		?> 
+		--PHP-mixed-<?php echo $random_hash; ?>  
+		Content-Type: multipart/alternative; boundary="PHP-alt-<?php echo $random_hash; ?>" 
 
---PHP-alt-<?php echo $random_hash; ?>  
-Content-Type: text/plain; charset="iso-8859-1" 
-Content-Transfer-Encoding: 7bit
+		--PHP-alt-<?php echo $random_hash; ?>  
+		Content-Type: text/plain; charset="iso-8859-1" 
+		Content-Transfer-Encoding: 7bit
 
-<?php echo print_r( $_POST ); ?>
+		<?php echo print_r( $_POST ); ?>
 
---PHP-mixed-<?php echo $random_hash; ?>  
-Content-Type: image; name="attachment.zip"  
-Content-Transfer-Encoding: base64  
-Content-Disposition: attachment  
+		--PHP-mixed-<?php echo $random_hash; ?>  
+		Content-Type: image; name="attachment.zip"  
+		Content-Transfer-Encoding: base64  
+		Content-Disposition: attachment  
 
-<?php echo $attachment; ?> 
---PHP-mixed-<?php echo $random_hash; ?>-- 
+		<?php echo $attachment; ?> 
+		--PHP-mixed-<?php echo $random_hash; ?>-- 
 
-<?php 
+		<?php 
 		//copy current buffer contents into $message variable and delete current output buffer 
 		$message = ob_get_clean(); 
 		//send the email 
@@ -86,21 +88,21 @@ Content-Disposition: attachment
 					<div id="error_box" style="display:none"></div>
 					<form name="formInscripcion" action="#" method="POST" enctype="multipart/form-data">
 						<label for="nombre">Nombre y Apellido</label>
-						<input name="nombre" id="nombre" value="Roberto Arlt" />
-						<label for="mail">Correo electronico</label>
-						<input type="email" name="mail" id="mail" value="asdf@gmail.com"/>
-						<label for="mail2">Repita su correo electronico</label>
-						<input type="email" name="mail2" id="mail2" value="asdf@gmail.com" />
+						<input name="nombre" id="nombre" value="Nombre Apellido" />
+						<label for="mail">Correo electrónico</label>
+						<input type="email" name="mail" id="mail" value="ejemplo@serviciodecorreo.com"/>
+						<label for="mail2">Repita su correo electrónico</label>
+						<input type="email" name="mail2" id="mail2" value="ejemplo@serviciodecorreo.com" />
 						<label for="nacimiento">Fecha de Nacimiento</label>
 						<input type="date" name="nacimiento" id="nacimiento" />
 						<label for="sexo">Sexo</label>
 						<select name="sexo" id="sexo" />
 							<option>-</option>
-							<option value="Hombre">Macho</option>
+							<option value="Hombre">Hombre</option>
 							<option value="Mujer">Mujer</option>
 						</select>
 						<label for="dni">D.N.I.</label>
-						<input name="dni" id="dni" value="12523" />
+						<input name="dni" id="dni" value="12345678" />
 						<label for="domicilio">Domicilio</label>
 						<input name="domicilio" id="domicilio" />
 						<label for="provincia">Provincia</label>
@@ -111,14 +113,6 @@ Content-Disposition: attachment
 						<input name="codigoPostal" id="codigoPostal" />
 						<label for="pais">País</label>
 						<input name="pais" id="pais" value="Argentina" />
-						<label for="condicion">Condición académica</label>
-						<select name="condicion" id="condicion" />
-							<option value="noSocio">No socio</option>
-							<option value="socio">Socio</option>
-							<option value="posgrado">Estudiante de posgrado</option>
-							<option value="grado">Estudiante de grado</option>
-							<option value="otro">otro</option>
-						</select>
 						<label for="institucion">Institución</label>
 						<input name="institucion" id="institucion" />
 						<label for="caracter">Carácter de su participación</label>
