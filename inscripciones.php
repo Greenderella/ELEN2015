@@ -1,11 +1,10 @@
 <?php
 	if( isset($_POST['do']) ){	
-		print_r( $_POST );
-	
 		//Settings
-		$to = 'j@florius.com.ar'; 
-		$subject = 'Test email with attachment';
-		$sender = "lala@holitas.col";
+		$to = $_POST['mail']; 
+		$mail_ELEN = "elen2015inscripciones@gmail.com";
+		$subject = 'ELEN 2015 - Confirmación de inscripción';
+		$sender = $mail_ELEN;
 		$max_allowed_file_size = 500; // size in KB
 		$allowed_extensions = array("jpg", "jpeg", "gif", "png", "bmp");
 		
@@ -34,47 +33,56 @@
 		  $errors .= "\n El archivo debería ser de alguno de estos tipos: " . implode(',',$allowed_extensions);
 		}
 		
-
 		//create a boundary string. It must be unique 
 		//so we use the MD5 algorithm to generate a random hash 
-		$random_hash = md5(date('r', time())); 
-		//define the headers we want passed. Note that they are separated with \r\n 
+		$random_hash = uniqid('np'); //md5(date('r', time())); 
+
 		$headers = "From: " . $sender ."\r\nReply-To: " . $sender; 
-		//add boundary string and mime type specification 
-		$headers .= "\r\nContent-Type: multipart/mixed; boundary=\"PHP-mixed-".$random_hash."\""; 
-		//read the atachment file contents into a string,
-		//encode it with MIME base64,
-		//and split it into smaller chunks
-		if( isset( $_FILES["comprobante_pago"]["tmp_name"] ) )		
-			$attachment = chunk_split(base64_encode(file_get_contents($_FILES["comprobante_pago"]["tmp_name"]))); 
-		else
-			$attachment = "";
+		$headers .= "\r\nBcc: " . $mail_ELEN;
+		// boundary 
+        $semi_rand = md5(time()); 
+        $mime_boundary = "==Multipart_Boundary_x{$semi_rand}x"; 
+		$headers .= "\nMIME-Version: 1.0\n" . "Content-Type: multipart/mixed;\n" . " boundary=\"{$mime_boundary}\"";
+
+		$headers .= "\nMIME-Version: 1.0\n" . "Content-Type: multipart/mixed;\n" . " boundary=\"{$mime_boundary}\""; 
+		
+		
+		
+		$message =	"Gracias! recibimos su inscripcion\n".
+							"Estos son los datos que nos han sido proposrcionados.\n".
+							"----------------\n".
+							"Nombre: {$_POST['nombre']}\n".
+							"Mail: {$_POST['mail']}\n".
+							"Fecha de nacimiento: {$_POST['nacimiento']}\n".
+							"Sexo: {$_POST['sexo']}\n".
+							"Tipo y número de documento: {$_POST['documento']}\n".
+							"Domicilio: {$_POST['domicilio']}\n".
+							"Provincia: {$_POST['provincia']}\n".
+							"Localidad: {$_POST['localidad']}\n".
+							"Código Postal: {$_POST['codigoPostal']}\n".
+							"País: {$_POST['pais']}\n".
+							"Condición académica: {$_POST['condicion']}\n".
+							"Institución: {$_POST['institucion']}\n".
+							"Carácter de su participación: {$_POST['caracter']}\n".
+							"Facturación: {$_POST['facturacion']}\n".
+							"-----------------\n".
+							"Cualquier consulta o cambio, hagalo a elen2015inscripciones@gmail.com.\n";
+		
+		// multipart boundary 
+        $message =  "--{$mime_boundary}\n" . "Content-Type: text/plain; charset=\"iso-8859-1\"\n" . "Content-Transfer-Encoding: 7bit\n\n" . $message . "\n\n"; 
+        $message .= "--{$mime_boundary}\n";
 		//define the body of the message. 
 
-		ob_start(); //Turn on output buffering 
-		?> 
-		--PHP-mixed-<?php echo $random_hash; ?>  
-		Content-Type: multipart/alternative; boundary="PHP-alt-<?php echo $random_hash; ?>" 
-
-		--PHP-alt-<?php echo $random_hash; ?>  
-		Content-Type: text/plain; charset="iso-8859-1" 
-		Content-Transfer-Encoding: 7bit
-
-		<?php echo print_r( $_POST ); ?>
-
-		--PHP-mixed-<?php echo $random_hash; ?>  
-		Content-Type: image; name="attachment.zip"  
-		Content-Transfer-Encoding: base64  
-		Content-Disposition: attachment  
-
-		<?php echo $attachment; ?> 
-		--PHP-mixed-<?php echo $random_hash; ?>-- 
-
-		<?php 
-		//copy current buffer contents into $message variable and delete current output buffer 
-		$message = ob_get_clean(); 
+		if( $_FILES["comprobante_pago"]["name"] != "" ){
+			$attachment = chunk_split(base64_encode(file_get_contents($_FILES["comprobante_pago"]["tmp_name"])));
+			$message .= "Content-Type: {\"image/" . $type_of_uploaded_file. "\"};\n" . " name=\"".$name_of_uploaded_file."\"\n" . 
+            "Content-Disposition: attachment;\n" . " filename=\"$name_of_uploaded_file\"\n" . 
+            "Content-Transfer-Encoding: base64\n\n" . $attachment . "\n\n";
+            $message .= "--{$mime_boundary}--\n";
+		}
+		
 		//send the email 
-		$mail_sent = @mail( $to, $subject, $message, $headers ); 
+		$mail_sent = @mail( $to, $subject, $message, $headers, "-f" . $sender ); 
 		//if the message is sent successfully print "Mail sent". Otherwise print "Mail failed" 
 		echo $mail_sent ? "Mail mandado" : "Algo fallo"; 		
 		
@@ -84,60 +92,61 @@
 
 			<div class="wrap">		
 				<div class="printSolo">
-					<h2 id="Inscripcion">Formulario de inscripción</h2>
+					<h2 id="Formulario">Formulario de inscripción</h2>
 					<div id="error_box" style="display:none"></div>
 					<form name="formInscripcion" action="#" method="POST" enctype="multipart/form-data">
-						<label for="nombre">Nombre y Apellido</label>
-						<input name="nombre" id="nombre" value="Roberto Arlt" />
-						<label for="mail">Correo electronico</label>
-						<input type="email" name="mail" id="mail" value="asdf@gmail.com"/>
-						<label for="mail2">Repita su correo electronico</label>
-						<input type="email" name="mail2" id="mail2" value="asdf@gmail.com" />
+						Los campos marcados con un asterisco son obligatorios.<br /><br />
+					
+						<label for="nombre">Nombre y Apellido<req>*</req></label>
+						<input name="nombre" id="nombre" /><br />
+						<label for="mail">Correo electrónico<req>*</req></label>
+						<input type="email" name="mail" id="mail" ><br />
+						<label for="mail2">Repita su correo electrónico<req>*</req></label>
+						<input type="email" name="mail2" id="mail2" /><br />
 						<label for="nacimiento">Fecha de Nacimiento</label>
-						<input type="date" name="nacimiento" id="nacimiento" />
+						<input type="date" name="nacimiento" id="nacimiento" /><br />
 						<label for="sexo">Sexo</label>
 						<select name="sexo" id="sexo" />
 							<option>-</option>
-							<option value="Hombre">Macho</option>
-							<option value="Mujer">Mujer</option>
-						</select>
-						<label for="dni">D.N.I.</label>
-						<input name="dni" id="dni" value="12523" />
+							<option value="Masculino">Masculino</option>
+							<option value="Femenino">Femenino</option>
+						</select><br />
+						<label for="documento">Tipo y número de documento<req>*</req></label>
+						<input name="documento" id="documento" /><br />
 						<label for="domicilio">Domicilio</label>
-						<input name="domicilio" id="domicilio" />
+						<input name="domicilio" id="domicilio" /><br />
 						<label for="provincia">Provincia</label>
-						<input name="provincia" id="provincia" />
+						<input name="provincia" id="provincia" /><br />
 						<label for="localidad">Localidad</label>
-						<input name="localidad" id="localidad" />
+						<input name="localidad" id="localidad" /><br />
 						<label for="codigoPostal">Código Postal</label>
-						<input name="codigoPostal" id="codigoPostal" />
-						<label for="pais">País</label>
-						<input name="pais" id="pais" value="Argentina" />
+						<input name="codigoPostal" id="codigoPostal" /><br />
+						<label for="pais">País<req>*</req></label>
+						<input name="pais" id="pais" /><br />
 						<label for="condicion">Condición académica</label>
 						<select name="condicion" id="condicion" />
-							<option value="noSocio">No socio</option>
-							<option value="socio">Socio</option>
-							<option value="posgrado">Estudiante de posgrado</option>
+							<option value="otro">Otro</option>
 							<option value="grado">Estudiante de grado</option>
-							<option value="otro">otro</option>
-						</select>
+							<option value="posgrado">Estudiante de posgrado</option>
+						</select><br />
 						<label for="institucion">Institución</label>
-						<input name="institucion" id="institucion" />
+						<input name="institucion" id="institucion" /><br />
 						<label for="caracter">Carácter de su participación</label>
 						<select name="caracter" id="caracter" />
 							<option value="asistente">Asistente</option>
 							<option value="orador">Orador</option>
 							<option value="poster">Poster</option>
-						</select>
-						<label for="facturacion">Facturación (Cargar la dirección fiscal y CUIL)</label>
-						<textarea name="facturacion" id="facturacion" rows="4" cols="50"></textarea>
+						</select><br />
+						<label for="facturacion">Facturación<br/>(Cargar la dirección fiscal y CUIL)</label>
+						<textarea name="facturacion" id="facturacion" rows="4" cols="50"></textarea><br />
+						<label for="comprobante_pago">Comprobante de pago</label>
 						<input type="file" name="comprobante_pago" id="comprobante_pago">
 						<input type="submit" name="do">
 					</form>
 				</div>
 				
 				<div class="printSolo">
-					<h2 id="Pago">Costos y formas de pago</h2>
+					<h2 id="Costos">Costos y formas de pago</h2>
 				</div>
 				
 				<div class="printSolo">
@@ -156,13 +165,10 @@
 		rules: 'required|valid_email'
 	}, {
 		name: 'mail2',
-		display: 'confirmación de email',
+		display: 'confirmación de mail',
 		rules: 'required|valid_email|matches[mail]'
 	}, {
-		name: 'sexo',
-		rules: 'required'
-	}, {
-		name: 'dni',
+		name: 'documento',
 		rules: 'required'
 	}, {
 		name: 'pais',
@@ -180,7 +186,7 @@
 				SELECTOR_ERRORS.append(errors[i].message + '<br />');
 			}
 			SELECTOR_ERRORS.fadeIn(200);
-			location.hash = '#error_box';
+			window.scrollTo(0, 0);
 		} else {
 			SELECTOR_ERRORS.css({ display: 'none' });
 			SELECTOR_SUCCESS.fadeIn(200);
