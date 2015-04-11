@@ -65,7 +65,7 @@
 							"Carácter de su participación: {$_POST['caracter']}\n".
 							"Facturación: {$_POST['facturacion']}\n".
 							"-----------------\n".
-							"Cualquier consulta o cambio, no dude en contactarse a elen2015inscripciones@gmail.com.\n"
+							"Cualquier consulta o cambio, no dude en contactarse a elen2015inscripciones@gmail.com.\n".
 							"Atte. organización V ELEN.\n";
 		
 		// multipart boundary 
