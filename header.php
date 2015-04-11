@@ -76,8 +76,8 @@
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="inscripciones.php#Costos">Costos y forma de pago</a>
 							<a href="inscripciones.php#Formulario">Formulario de inscripción</a>
+							<a href="inscripciones.php#Costos">Costos y forma de pago</a>
 							<a href="inscripciones.php#Resumenes">Envío de resúmenes</a>
 						</div>
 					</li>
