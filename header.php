@@ -101,11 +101,10 @@
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
 								<span class="sdt_link">Circulares</span>
-								<span class="sdt_descr">1 de 1</span>
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="#">1<sup>era</sup> Circular</a>
+							<a href="circulares.php#Circulares">1<sup>era</sup> Circular</a>
 						</div>
 					</li>
 					<li>
