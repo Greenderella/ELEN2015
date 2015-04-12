@@ -162,42 +162,43 @@
 						</tr>
 						<tr>
 							<td>Asistente/Expositor</td>
-							<td>US$ 150</td>
-							<td>US$ 200</td>
-							<td>US$ 280</td>
+							<td>USD$150</td>
+							<td>USD$200</td>
+							<td>USD$280</td>
 						</tr>
 						<tr>
 							<td>Estudiante de posgrado*</td>
-							<td>US$ 100</td>
-							<td>US$ 150</td>
-							<td>US$ 220</td>
+							<td>USD$100</td>
+							<td>USD$150</td>
+							<td>USD$220</td>
 						</tr>
 						<tr>
 							<td>Estudiante de grado*</td>
-							<td>US$ 70</td>
-							<td>US$ 110</td>
-							<td>US$ 150</td>
+							<td>USD$70</td>
+							<td>USD$110</td>
+							<td>USD$150</td>
 						</tr>
 						<tr>
 							<td>Asistente/expositor arg</td>
-							<td>$ arg 1000</td>
-							<td>$ arg 1500</td>
-							<td>$ arg 2000</td>
+							<td>$1000</td>
+							<td>$1500</td>
+							<td>$2000</td>
 						</tr>
 						<tr>
 							<td>Estudiante de posgrado arg*</td>
-							<td>$ arg 800</td>
-							<td>$ arg 1000</td>
-							<td>$ arg 1200</td>
+							<td>$800</td>
+							<td>$1000</td>
+							<td>$1200</td>
 						</tr>
 						<tr>
 							<td>Estudiante de grado arg*</td>
-							<td>$ arg 600</td>
-							<td>$ arg 600</td>
-							<td>$ arg 600</td>
+							<td>$600</td>
+							<td>$600</td>
+							<td>$600</td>
 						</tr>
 					</table>
-						
+					<br />
+						* Deberán adjuntar certificación de la condición
 				</div>
 				
 				<div class="printSolo">

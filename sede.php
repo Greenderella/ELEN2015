@@ -23,7 +23,7 @@
 					Una vez realizada la transferencia de reserva solicitamos envíe escaneado el comprobante al correo electrónico del V ELEN (<a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>), por favor indicar en el asunto RESERVA_ APELLIDO. Los cupones originales deberán ser presentados al ingresar a la residencia, de lo contrario se le cobrará el total de la estadía. En el cuerpo del mail indicar los apellidos y nombres a los que corresponde el depósito y con quienes compartiría habitación.
 					<br />
 					<br />
-					Otros alojamientos: en breve se proporcionará una lista de posibilidades en las cercanías de la residencia, pero la organización del V ELEN no se encargará de la reserva de las mismas. Quienes no se alojen en la residencia, podrán acceder a los servicios de comedor para el almuerzo y la cena a un costo aproximado de U$15/$100 por cada comida, las que se contratarán durante el desarrollo del evento.
+					<h3>Otros alojamientos:</h3>En breve se proporcionará una lista de posibilidades en las cercanías de la residencia, pero la organización del V ELEN no se encargará de la reserva de las mismas. Quienes no se alojen en la residencia, podrán acceder a los servicios de comedor para el almuerzo y la cena a un costo aproximado de U$15/$100 por cada comida, las que se contratarán durante el desarrollo del evento.
 				</div>
 				</div>
 			</div>
