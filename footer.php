@@ -1,5 +1,5 @@
 <div class="footer">
-				<p>Todos los <a>derechos</a> reservados</p>
+				<p>V ELEN</p>
 			</div>
 		</div>
 	</body>
