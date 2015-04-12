@@ -15,7 +15,7 @@
 								</div>
 								<h3>ELEN 2015</h3>
 								<p>
-									Se encuentra disponible la primera circular para el próximo ELEN<a href="#">Más...</a>
+									Se encuentra disponible la primera circular para el próximo ELEN.<a href="#">Más...</a>
 								</p>
 							</div>
 						</div>

@@ -71,7 +71,7 @@
 						<img src="image/3.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Inscripciones</span>
+								<span class="sdt_link">Inscripción</span>
 								<span class="sdt_descr">y Resúmenes</span>
 							</span>
 						</a>

@@ -125,9 +125,12 @@
 						<input name="pais" id="pais" /><br />
 						<label for="condicion">Condición académica</label>
 						<select name="condicion" id="condicion" />
-							<option value="otro">Otro</option>
-							<option value="grado">Estudiante de grado</option>
-							<option value="posgrado">Estudiante de posgrado</option>
+							<option value="otroarg">Asistente/Expositor argentino</option>
+							<option value="otroext">Asistente/Expositor extranjero</option>
+							<option value="gradoarg">Estudiante de grado argentino</option>
+							<option value="gradoext">Estudiante de grado extranjero</option>
+							<option value="posgradoarg">Estudiante de posgrado argentino</option>
+							<option value="posgradoext">Estudiante de posgrado extranjero</option>
 						</select><br />
 						<label for="institucion">Institución</label>
 						<input name="institucion" id="institucion" /><br />
@@ -147,10 +150,59 @@
 				
 				<div class="printSolo">
 					<h2 id="Costos">Costos y formas de pago</h2>
+					Se informará a la brevedad las cuentas disponibles para realizar los depósitos bancarios.
+					<br />
+					<table>
+						<tr>
+							<th>Participante</td>
+							<th>Hasta el 31/05</td>
+							<th>Hasta el 31/07</td>
+							<th>Hasta el 16/11</td>
+						</tr>
+						<tr>
+							<td>Asistente/Expositor</td>
+							<td>US$ 150</td>
+							<td>US$ 200</td>
+							<td>US$ 280</td>
+						</tr>
+						<tr>
+							<td>Estudiante de posgrado*</td>
+							<td>US$ 100</td>
+							<td>US$ 150</td>
+							<td>US$ 220</td>
+						</tr>
+						<tr>
+							<td>Estudiante de grado*</td>
+							<td>US$ 70</td>
+							<td>US$ 110</td>
+							<td>US$ 150</td>
+						</tr>
+						<tr>
+							<td>Asistente/expositor arg</td>
+							<td>$ arg 1000</td>
+							<td>$ arg 1500</td>
+							<td>$ arg 2000</td>
+						</tr>
+						<tr>
+							<td>Estudiante de posgrado arg*</td>
+							<td>$ arg 800</td>
+							<td>$ arg 1000</td>
+							<td>$ arg 1200</td>
+						</tr>
+						<tr>
+							<td>Estudiante de grado arg*</td>
+							<td>$ arg 600</td>
+							<td>$ arg 600</td>
+							<td>$ arg 600</td>
+						</tr>
+					</table>
+						
 				</div>
 				
 				<div class="printSolo">
-					<h2 id="Resumenes">Envío de resúmenes</h2>
+					<h2 id="Resumenes">Presentaciones y Resúmenes</h2>
+					Podrán ser en español, portugués o inglés. Las presentaciones podrán ser en modalidad poster (P) u oral (O), y se organizarán en bloques temáticos. Dependiendo de la cantidad de trabajos presentados en cada modalidad y los tiempos y espacios disponibles, la comisión organizadora podrá modificar la modalidad previa comunicación con los autores.
+					Cualquiera sea la modalidad, los autores deberán enviar un resumen para su evaluación a <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a>. Se aceptarán hasta 2 (dos) presentaciones como primer autor por cada inscripción, pero puede estar presente como coautor en otros trabajos. El resumen deberá atenerse estrictamente al formato indicado en la plantilla. La cual se proveé a continuación.
 				</div>
 				
 			</div>
