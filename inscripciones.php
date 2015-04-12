@@ -161,37 +161,37 @@
 							<td>Hasta el 16/11</td>
 						</tr>
 						<tr>
-							<td>Asistente/Expositor</td>
+							<td>Asistente/Expositor extranjero</td>
 							<td>USD$150</td>
 							<td>USD$200</td>
 							<td>USD$280</td>
 						</tr>
 						<tr>
-							<td>Estudiante de posgrado*</td>
+							<td>Estudiante de posgrado extranjero*</td>
 							<td>USD$100</td>
 							<td>USD$150</td>
 							<td>USD$220</td>
 						</tr>
 						<tr>
-							<td>Estudiante de grado*</td>
+							<td>Estudiante de grado extranjero*</td>
 							<td>USD$70</td>
 							<td>USD$110</td>
 							<td>USD$150</td>
 						</tr>
 						<tr>
-							<td>Asistente/expositor arg</td>
+							<td>Asistente/expositor argentino</td>
 							<td>$1000</td>
 							<td>$1500</td>
 							<td>$2000</td>
 						</tr>
 						<tr>
-							<td>Estudiante de posgrado arg*</td>
+							<td>Estudiante de posgrado argentino*</td>
 							<td>$800</td>
 							<td>$1000</td>
 							<td>$1200</td>
 						</tr>
 						<tr>
-							<td>Estudiante de grado arg*</td>
+							<td>Estudiante de grado argentino*</td>
 							<td>$600</td>
 							<td>$600</td>
 							<td>$600</td>
@@ -206,10 +206,12 @@
 					Podrán ser en español, portugués o inglés. Las presentaciones podrán ser en modalidad poster (P) u oral (O), y se organizarán en bloques temáticos. Dependiendo de la cantidad de trabajos presentados en cada modalidad y los tiempos y espacios disponibles, la comisión organizadora podrá modificar la modalidad previa comunicación con los autores.
 					Cualquiera sea la modalidad, los autores deberán enviar un resumen para su evaluación a <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a>. Se aceptarán hasta 2 (dos) presentaciones como primer autor por cada inscripción, pero puede estar presente como coautor en otros trabajos. El resumen deberá atenerse estrictamente al formato indicado en la plantilla.
 					<br />
-					<a href="/Formato de resumen - Español.pdf">Formato de resumen</a>
 					<br />
-					<a href="/Abstract format - English.pdf">Abstract format</a>
-					
+					Plantillas
+						<ul>
+							<li><a href="/Formato de resumen - Español.pdf">Formato de resumen</a></li>
+							<li><a href="/Abstract format - English.pdf">Abstract format</a></li>
+						</ul>
 				</div>
 				
 			</div>
