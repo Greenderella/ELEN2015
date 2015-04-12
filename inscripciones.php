@@ -152,12 +152,13 @@
 					<h2 id="Costos">Costos y formas de pago</h2>
 					Se informará a la brevedad las cuentas disponibles para realizar los depósitos bancarios.
 					<br />
+					<br />
 					<table>
 						<tr>
-							<th>Participante</td>
-							<th>Hasta el 31/05</td>
-							<th>Hasta el 31/07</td>
-							<th>Hasta el 16/11</td>
+							<td>Participante</td>
+							<td>Hasta el 31/05</td>
+							<td>Hasta el 31/07</td>
+							<td>Hasta el 16/11</td>
 						</tr>
 						<tr>
 							<td>Asistente/Expositor</td>
@@ -202,7 +203,12 @@
 				<div class="printSolo">
 					<h2 id="Resumenes">Presentaciones y Resúmenes</h2>
 					Podrán ser en español, portugués o inglés. Las presentaciones podrán ser en modalidad poster (P) u oral (O), y se organizarán en bloques temáticos. Dependiendo de la cantidad de trabajos presentados en cada modalidad y los tiempos y espacios disponibles, la comisión organizadora podrá modificar la modalidad previa comunicación con los autores.
-					Cualquiera sea la modalidad, los autores deberán enviar un resumen para su evaluación a <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a>. Se aceptarán hasta 2 (dos) presentaciones como primer autor por cada inscripción, pero puede estar presente como coautor en otros trabajos. El resumen deberá atenerse estrictamente al formato indicado en la plantilla. La cual se proveé a continuación.
+					Cualquiera sea la modalidad, los autores deberán enviar un resumen para su evaluación a <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a>. Se aceptarán hasta 2 (dos) presentaciones como primer autor por cada inscripción, pero puede estar presente como coautor en otros trabajos. El resumen deberá atenerse estrictamente al formato indicado en la plantilla.
+					<br />
+					<a href="/Formato de resumen - Español.pdf">Formato de resumen</a>
+					<br />
+					<a href="/Abstract format - English.pdf">Abstract format</a>
+					
 				</div>
 				
 			</div>
