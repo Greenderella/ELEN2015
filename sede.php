@@ -24,6 +24,9 @@
 					<br />
 					<br />
 					<h3>Otros alojamientos:</h3>En breve se proporcionará una lista de posibilidades en las cercanías de la residencia, pero la organización del V ELEN no se encargará de la reserva de las mismas. Quienes no se alojen en la residencia, podrán acceder a los servicios de comedor para el almuerzo y la cena a un costo aproximado de U$15/$100 por cada comida, las que se contratarán durante el desarrollo del evento.
+					<br />
+					<br />
+					 To read these conditions in English please refer to the <a href="/1st Announcement April 2015.pdf">1st announcement</a>.
 				</div>
 				</div>
 			</div>

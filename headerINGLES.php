@@ -19,9 +19,9 @@
 		<div class="fancy"><img src="image/fondo.png"></div>
 		<a href="index.php" class="logo">
 			<div>
-				<h1>V Encuentro de Lepidoptera Neotropicales</h1>
-				<h3>Biodiversidad, Ecología, Evolución y Conservación</h3>
-				<h2>16-20 de Noviembre de 2015</h2>
+				<h1>V Meeting of Neotropical Lepidoptera</h1>
+				<h3>Biodiversity, evolution, ecology and conservation</h3>
+				<h2>to November 16 to the 20th, 2015</h2>
 				<h2>Tucumán, Argentina</h2>
 			</div>
 		</a>
@@ -60,9 +60,9 @@
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="cronograma.php#Areas">Areas temáticas</a>
-							<a href="cronograma.php#Modalidades">Convocatoria a simposios</a>
-							<a href="cronograma.php#Cronograma">Cronograma</a>
+							<a href="cronograma.php#Areas">Thematic areas</a>
+							<a href="cronograma.php#Modalidades">Symposia proposal</a>
+							<a href="cronograma.php#Cronograma">Schedule</a>
 						</div>
 					</li>
 					<li>
@@ -70,8 +70,8 @@
 						<img src="image/3.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Inscripción</span>
-								<span class="sdt_descr">y Resúmenes</span>
+								<span class="sdt_link">Registration</span>
+								<span class="sdt_descr">and abstract submission</span>
 							</span>
 						</a>
 						<div class="sdt_box">

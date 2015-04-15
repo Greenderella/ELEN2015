@@ -14,14 +14,8 @@
 				</div>
 				
 				<div class="printSolo">
-				<h2 id="Areas">Modalidades</h2>
-					<ul>
-						<li>Presentaciones orales</li>
-						<li>Simposios *</li>
-						<li>Posters</li>
-					</ul>
-					<br />
-					* Se recibirán propuestas hasta el 31 de julio 2015 a nuestra dirección de correo electrónica <a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>. Cada propuesta deberá consistir en una breve introducción al tema del simposio, y los nombres, lugares de trabajo y correos electrónicos del coordinador y tres o cuatro simposistas invitados. El coordinador asumirá la tarea de presentar a los ponentes y sus temas, dirigiendo la discusión y concluyendo al final del mismo. Luego de los debates, preguntas y respuestas, se espera que el coordinador realice una breve conclusión y actualización del tema hasta el momento (up-to-date). Los simposistas serán expertos en una especialidad o en un tema dado, preferentemente abarcador en Lepidoptera, que presenten y discutan trabajos alrededor de un tema central, desde diferentes ángulos o perfiles mediante presentaciones orales de 20 min cada uno. De acuerdo al cronograma tentativo habría espacio para la presentación de 4 simposios diferentes. Por el momento la Organización no cuenta con fondos para cubrir los gastos de los simposistas invitados, por lo que se deberá considerar tal circunstancia al hacer la propuesta.
+				<h2 id="Areas">Convocatoria a simposios</h2>
+					Se recibirán propuestas hasta el 31 de julio 2015 a nuestra dirección de correo electrónica <a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>. Cada propuesta deberá consistir en una breve introducción al tema del simposio, y los nombres, lugares de trabajo y correos electrónicos del coordinador y tres o cuatro simposistas invitados. El coordinador asumirá la tarea de presentar a los ponentes y sus temas, dirigiendo la discusión y concluyendo al final del mismo. Luego de los debates, preguntas y respuestas, se espera que el coordinador realice una breve conclusión y actualización del tema hasta el momento (up-to-date). Los simposistas serán expertos en una especialidad o en un tema dado, preferentemente abarcador en Lepidoptera, que presenten y discutan trabajos alrededor de un tema central, desde diferentes ángulos o perfiles mediante presentaciones orales de 20 min cada uno. De acuerdo al cronograma tentativo habría espacio para la presentación de 4 simposios diferentes. Por el momento la Organización no cuenta con fondos para cubrir los gastos de los simposistas invitados, por lo que se deberá considerar tal circunstancia al hacer la propuesta.
 				</div>
 				
 				<div class="printSolo">

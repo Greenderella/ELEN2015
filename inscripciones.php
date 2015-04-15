@@ -123,8 +123,9 @@
 						<input name="codigoPostal" id="codigoPostal" /><br />
 						<label for="pais">País<req>*</req></label>
 						<input name="pais" id="pais" /><br />
-						<label for="condicion">Condición académica</label>
+						<label for="condicion">Condición académica<req>*</req></label>
 						<select name="condicion" id="condicion" />
+							<option selected></option>
 							<option value="otroarg">Asistente/Expositor argentino</option>
 							<option value="otroext">Asistente/Expositor extranjero</option>
 							<option value="gradoarg">Estudiante de grado argentino</option>
@@ -132,10 +133,11 @@
 							<option value="posgradoarg">Estudiante de posgrado argentino</option>
 							<option value="posgradoext">Estudiante de posgrado extranjero</option>
 						</select><br />
-						<label for="institucion">Institución</label>
+						<label for="institucion">Institución<req>*</req></label>
 						<input name="institucion" id="institucion" /><br />
-						<label for="caracter">Carácter de su participación</label>
+						<label for="caracter">Carácter de su participación<req>*</req></label>
 						<select name="caracter" id="caracter" />
+							<option selected></option>
 							<option value="asistente">Asistente</option>
 							<option value="orador">Orador</option>
 							<option value="poster">Poster</option>
@@ -207,10 +209,10 @@
 					Cualquiera sea la modalidad, los autores deberán enviar un resumen para su evaluación a <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a>. Se aceptarán hasta 2 (dos) presentaciones como primer autor por cada inscripción, pero puede estar presente como coautor en otros trabajos. El resumen deberá atenerse estrictamente al formato indicado en la plantilla.
 					<br />
 					<br />
-					Plantillas
+					Descargar la plantilla y ver las condiciones de envío en la <a href="/1era Circular Abril 2015.pdf">1era circular</a>.
 						<ul>
-							<li><a href="/Formato de resumen - Español.pdf">Formato de resumen</a></li>
-							<li><a href="/Abstract format - English.pdf">Abstract format</a></li>
+							<li><a href="/Formato de resumen - Español.pdf">Plantilla</a></li>
+							<li><a href="/Abstract format - English.pdf">Template</a></li>
 						</ul>
 				</div>
 				
@@ -232,8 +234,21 @@
 		name: 'documento',
 		rules: 'required'
 	}, {
+		name: 'institucion',
+		display: 'institución',
+		rules: 'required|min_length[3]'
+	}, {
 		name: 'pais',
+		display: 'país',
 		rules: 'required|min_length[3]|alpha'
+	}, {
+		name: 'condicion',
+		display: 'condición académica',
+		rules: 'required'
+	}, {
+		name: 'caracter',
+		display: 'caracter de su participación',
+		rules: 'required'
 	}, {
 		name: 'comprobante_pago',
 		display: 'archivo de comprobante de pago',

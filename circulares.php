@@ -10,7 +10,7 @@
 					<h2 id="Circulares">Announcements</h2>
 					Theres is already available the first announcement of the V ELEN.
 				<br />
-					<a href="/1st Announcement April 2015.pdf">1era Circular</a>
+					<a href="/1st Announcement April 2015.pdf">1st Announcement</a>
 				</div>
 			</div>
 
