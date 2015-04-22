@@ -86,12 +86,13 @@
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
 								<span class="sdt_link">Colectas</span>
-								<span class="sdt_descr">y Viajes</span>
+								<span class="sdt_descr">y Colecciones</span>
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="colectas.php#Viajes">Viaje de campo</a>
 							<a href="colectas.php#Colectas">Colectas científicas en Argentina</a>
+							<a href="colectas.php#Colecciones">Visitas a la colección del "Instituto y Fundación Miguel Lillo"</a>
+							<a href="colectas.php#Viajes">Viaje de campo</a>
 						</div>
 					</li>
 					<li>
