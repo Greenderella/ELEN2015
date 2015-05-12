@@ -1,5 +1,5 @@
 <?php
-	include "../header.php";
+	include "header.php";
 ?>
 			<div class="wrap">
 				<div class="printSolo">
@@ -20,7 +20,7 @@
 				
 				<div class="printSolo">
 					<a href="javascript:window.print();">
-						<img class="action" src="image/print.png"/>
+						<img class="action" src="../image/print.png"/>
 					</a>
 					<h2 id="Cronograma">Schedule</h2>
 					<br />

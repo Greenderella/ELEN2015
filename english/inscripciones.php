@@ -92,66 +92,66 @@
 
 			<div class="wrap">		
 				<div class="printSolo">
-					<h2 id="Formulario">Formulario de inscripción</h2>
+					<h2 id="Formulario">Registration form</h2>
 					<div id="error_box" style="display:none"></div>
 					<form name="formInscripcion" action="#" method="POST" enctype="multipart/form-data">
 						Los campos marcados con un asterisco son obligatorios.<br /><br />
 					
-						<label for="nombre">Nombre y Apellido<req>*</req></label>
+						<label for="nombre">Name and Surname<req>*</req></label>
 						<input name="nombre" id="nombre" /><br />
-						<label for="mail">Correo electrónico<req>*</req></label>
+						<label for="mail">Email Address<req>*</req></label>
 						<input type="email" name="mail" id="mail" ><br />
-						<label for="mail2">Repita su correo electrónico<req>*</req></label>
+						<label for="mail2">Repeat Email Address<req>*</req></label>
 						<input type="email" name="mail2" id="mail2" /><br />
-						<label for="nacimiento">Fecha de Nacimiento</label>
+						<label for="nacimiento">Date of birth</label>
 						<input type="date" name="nacimiento" id="nacimiento" /><br />
-						<label for="sexo">Sexo</label>
+						<label for="sexo">Genre</label>
 						<select name="sexo" id="sexo" />
 							<option>-</option>
-							<option value="Masculino">Masculino</option>
-							<option value="Femenino">Femenino</option>
+							<option value="Masculino">Male</option>
+							<option value="Femenino">Female</option>
 						</select><br />
-						<label for="documento">Tipo y número de documento<req>*</req></label>
+						<label for="documento">Type and ID number<req>*</req></label>
 						<input name="documento" id="documento" /><br />
-						<label for="domicilio">Domicilio</label>
+						<label for="domicilio">Address</label>
 						<input name="domicilio" id="domicilio" /><br />
-						<label for="provincia">Provincia</label>
+						<label for="provincia">District</label>
 						<input name="provincia" id="provincia" /><br />
-						<label for="localidad">Localidad</label>
+						<label for="localidad">Location</label>
 						<input name="localidad" id="localidad" /><br />
-						<label for="codigoPostal">Código Postal</label>
+						<label for="codigoPostal">Postal code</label>
 						<input name="codigoPostal" id="codigoPostal" /><br />
-						<label for="pais">País<req>*</req></label>
+						<label for="pais">Country<req>*</req></label>
 						<input name="pais" id="pais" /><br />
-						<label for="condicion">Condición académica<req>*</req></label>
+						<label for="condicion">Academic condition<req>*</req></label>
 						<select name="condicion" id="condicion" />
 							<option selected></option>
-							<option value="otroarg">Asistente/Expositor argentino</option>
-							<option value="otroext">Asistente/Expositor extranjero</option>
-							<option value="gradoarg">Estudiante de grado argentino</option>
-							<option value="gradoext">Estudiante de grado extranjero</option>
-							<option value="posgradoarg">Estudiante de posgrado argentino</option>
-							<option value="posgradoext">Estudiante de posgrado extranjero</option>
+							<option value="otroarg">Argentinian Attendee/Speakers</option>
+							<option value="otroext">Foreign Attendee/Speakers</option>
+							<option value="gradoarg">Argentinian Graduate student</option>
+							<option value="gradoext">Foreign Graduate student</option>
+							<option value="posgradoarg">Argentinian Postgraduate student</option>
+							<option value="posgradoext">Foreign Postgraduate student</option>
 						</select><br />
-						<label for="institucion">Institución<req>*</req></label>
+						<label for="institucion">Institution<req>*</req></label>
 						<input name="institucion" id="institucion" /><br />
-						<label for="caracter">Carácter de su participación<req>*</req></label>
+						<label for="caracter">Nature of participation<req>*</req></label>
 						<select name="caracter" id="caracter" />
 							<option selected></option>
-							<option value="asistente">Asistente</option>
-							<option value="orador">Orador</option>
+							<option value="asistente">Attendee</option>
+							<option value="orador">Speaker</option>
 							<option value="poster">Poster</option>
 						</select><br />
-						<label for="facturacion">Facturación<br/>(Cargar la dirección fiscal y CUIL)</label>
+						<label for="facturacion">Bill</label>
 						<textarea name="facturacion" id="facturacion" rows="4" cols="50"></textarea><br />
-						<label for="comprobante_pago">Comprobante de pago</label>
+						<label for="comprobante_pago">Proof of payment</label>
 						<input type="file" name="comprobante_pago" id="comprobante_pago">
 						<input type="submit" name="do">
 					</form>
 				</div>
 				
 				<div class="printSolo">
-					<h2 id="Costos">Costos y formas de pago</h2>
+					<h2 id="Costos">Registration fees</h2>
 					Se informará a la brevedad las cuentas disponibles para realizar los depósitos bancarios.
 					<br />
 					<br />

@@ -1,5 +1,5 @@
 <?php
-	include "../header.php";
+	include "header.php";
 ?>
 			<div class="wrap">
 				<div class="printSolo">
@@ -11,5 +11,5 @@
 				</div>
 			</div>
 <?php
-	include "../footer.php";
+	include "footer.php";
 ?>

@@ -3,7 +3,7 @@
 ?>
 			<div class="wrap">
 				<div class="printSolo">
-				<h2 id="sede">Sede y Alojamiento</h2>
+				<h2 id="sede">Venue and Accomodation</h2>
 				<div>
 					La <a target="_blank" href="http://www.residencias.unt.edu.ar/index.php/horco-molle-item">residencia universitaria Horco Molle</a>, se encuentra ubicada a 15 km de San Miguel de Tucumán y a 650 mts sobre el nivel del mar, en el Parque Sierra de San Javier. Rodeada por el esplendor de las Yungas, una de las selvas con mayor biodiversidad del mundo es un lugar ideal para la realización del V ELEN.
 					</div>

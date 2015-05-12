@@ -1,5 +1,5 @@
 <?php
-	include "../header.php";
+	include "header.php";
 ?>
 			<div class="wrap">
 				<div class="printSolo">
@@ -12,7 +12,7 @@
 				</div>
 				
 				<div class="printSolo">
-				<h2 id="Colecciones">Visits to the entomological of the "Instituto y Fundación Miguel Lillo"</h2>
+				<h2 id="Colecciones">Entomological collection of the "Instituto y Fundación Miguel Lillo"</h2>
 					Contact the Lic. Emilia Constanza Pérez by mail: <a href="emiliacperez@hotmail.com.ar">emiliacperez@hotmail.com.ar</a>. The visits can be performed preferably in the morning.
 				<br />
 					<h3>IMPORTANT:</h3> Monday, November 23rd and Thursday, November 26th are two non-working days at the National University of Tucumán and Instituto Miguel Lillo.
@@ -20,5 +20,5 @@
 				
 			</div>
 <?php
-	include "../footer.php";
+	include "footer.php";
 ?>

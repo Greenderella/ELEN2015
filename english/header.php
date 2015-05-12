@@ -17,6 +17,7 @@
 		<?php include_once("../analyticstracking.php") ?>
 	
 		<div class="fancy"><img src="../image/fondo.png"></div>
+		<div class="lang">English / <a href="../<?php echo basename($_SERVER['PHP_SELF']); ?>">Español</a></div>
 		<a href="index.php" class="logo">
 			<div>
 				<h1>V Meeting of Neotropical Lepidoptera</h1>
@@ -71,12 +72,11 @@
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
 								<span class="sdt_link">Registration</span>
-								<span class="sdt_descr">and abstract submission</span>
 							</span>
 						</a>
 						<div class="sdt_box">
 							<a href="inscripciones.php#Formulario">Registration form</a>
-							<a href="inscripciones.php#Costos">Fees</a>
+							<a href="inscripciones.php#Costos">Registration fees</a>
 							<a href="inscripciones.php#Resumenes">Abstract submission</a>
 						</div>
 					</li>
@@ -91,7 +91,7 @@
 						</a>
 						<div class="sdt_box">
 							<a href="colectas.php#Colectas">Collections in Argentina</a>
-							<a href="colectas.php#Colecciones">Visits to the entomological of the "Instituto y Fundación Miguel Lillo"</a>
+							<a href="colectas.php#Colecciones">Visits to the entomological collection of the "Instituto y Fundación Miguel Lillo"</a>
 							<a href="colectas.php#Viajes">Field trips</a>
 						</div>
 					</li>
@@ -100,7 +100,7 @@
 							<img src="../image/5.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Announcement</span>
+								<span class="sdt_link">Ann.</span>
 							</span>
 						</a>
 						<div class="sdt_box">
@@ -113,7 +113,7 @@
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
 								<span class="sdt_link">Venue</span>
-								<span class="sdt_descr">and accomodation</span>
+								<span class="sdt_descr">Accomodations</span>
 							</span>
 						</a>
 					</li>

@@ -9,7 +9,7 @@
 							<div>
 								<div class="title">
 									<p class="h2">
-										<img src="image/icon1.png" title="Últimas noticias" />
+										<img src="../image/icon1.png" title="Últimas noticias" />
 										ÚLTIMAS NOTICIAS
 									</p>
 								</div>
@@ -23,7 +23,7 @@
 							<div>
 								<div class="title">
 									<p class="h2">
-										<img src="image/icon.png" title="Instituciones" />
+										<img src="../image/icon.png" title="Instituciones" />
 										INSTITUCIONES
 									</p>
 								</div>
@@ -47,11 +47,11 @@
 							<a class="control_next">></a>
 							<a class="control_prev"><</a>
 							<ul>
-								<li><img src="image/car1.jpg" title="Pariposa" /></li>
-								<li><img src="image/car2.jpg" title="Pariposa" /></li>
-								<li><img src="image/car3.jpg" title="Pariposa" /></li>
-								<li><img src="image/car4.jpg" title="Pariposa" /></li>
-								<li><img src="image/car5.jpg" title="Pariposa" /></li>
+								<li><img src="../image/car1.jpg" title="Pariposa" /></li>
+								<li><img src="../image/car2.jpg" title="Pariposa" /></li>
+								<li><img src="../image/car3.jpg" title="Pariposa" /></li>
+								<li><img src="../image/car4.jpg" title="Pariposa" /></li>
+								<li><img src="../image/car5.jpg" title="Pariposa" /></li>
 							</ul>  
 						</div>
 						<div class="text">

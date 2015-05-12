@@ -17,6 +17,7 @@
 		<?php include_once("analyticstracking.php") ?>
 	
 		<div class="fancy"><img src="image/fondo.png"></div>
+		<div class="lang"><a href="english/<?php echo basename($_SERVER['PHP_SELF']); ?>">English</a> / Español</div>
 		<a href="index.php" class="logo">
 			<div>
 				<h1>V Encuentro de Lepidoptera Neotropicales</h1>
