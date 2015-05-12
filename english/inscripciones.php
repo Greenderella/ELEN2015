@@ -153,7 +153,7 @@
 				<div class="printSolo">
 					<h2 id="Costos">Registration fees</h2>
 					<br />
-					<h3>Cuenta para pago e inscripciones y alojamiento (pesos y dólares)</h3>
+					<h3>Bank account</h3>
 					<br />
 					Banco Galicia
 					<br />

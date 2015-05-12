@@ -35,7 +35,7 @@
 								<h3>Sponsors</h3>
 								<ul>
 									<li>Facultad de Ciencias Exactas Físicas y Naturales - Universidad Nacional de Córdoba (FCFyN - UNC)</li>
-									<li>Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)</li>
+									<li>The National Scientific and Technical Research Council (CONICET)</li>
 								</ul>
 							</div>
 						</div>
