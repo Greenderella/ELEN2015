@@ -45,7 +45,7 @@ form req{ color: red; font-width: 700; vertical-align: super; font-size: 1em; }
 form{ border: 1px solid black; text-align: center; padding: 1em; }
 label { display: inline-block; width: 40%; text-align: right; vertical-align: top; margin-right: 1em;}
 input,textarea,select,.descarga { background: #f8f8f8; border: 1px solid #444; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; margin-bottom: 20px; padding: 10px 7px; width: 50%; }
-button,.descarga {background-color: #C8C8C8 ; width:auto; }
+button,.descarga {background-color: #E6E3E3 ; width:auto; }
 select{box-sizing:content-box; }
 
 @media print {
