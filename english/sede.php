@@ -5,7 +5,7 @@
 				<div class="printSolo">
 				<h2 id="sede">Venue and Accomodation</h2>
 				<div>
-					La <a target="_blank" href="http://www.residencias.unt.edu.ar/index.php/horco-molle-item">residencia universitaria Horco Molle</a>, se encuentra ubicada a 15 km de San Miguel de Tucumán y a 650 mts sobre el nivel del mar, en el Parque Sierra de San Javier. Rodeada por el esplendor de las Yungas, una de las selvas con mayor biodiversidad del mundo es un lugar ideal para la realización del V ELEN.
+					<a target="_blank" href="http://www.residencias.unt.edu.ar/index.php/horco-molle-item">Horco Molle’s residence</a>: full board (breakfast, lunch and dinner) per person.
 					</div>
 					<br />
 					<div class="center">
@@ -13,20 +13,24 @@
 					</div>
 				<div>	
 					<br />
-					La residencia cuenta con un servicio de pensión completa (desayuno, almuerzo y cena), la cual tendrá un costo total por persona de U$ 250/$Arg1600 (con ingreso el día lunes 6/11 a partir de las 18 horas hasta el viernes 20/11 a las 18 horas), el alojamiento incluye ropa de cama y toallas (sin servicio de cuarto), la cena de camaradería no se encuentra incluida.
-					El caso de hospedarse una menor cantidad de días, por favor tengan en cuenta que el costo por día es de U$65/$arg420.
+					Promotion: From Monday, November 6th (06 pm) until Friday, November 20th (06 pm): US$ 250. Includes: bed
+					linen and towels (no room service), breakfast, lunch and dinner (not including fellowship dinner).
 					<br />
-					Las habitaciones disponibles son para 3 o 4 personas, con baño individual o bien baños compartidos entre dos habitaciones. La residencia no se ocupará de la distribución de las personas en las habitaciones. Se recomienda que, de ser posible, los asistentes se organicen previamente y comuniquen por correo electrónico quienes compartirían habitación a los organizadores del V ELEN.
+					If you will stay less days, perform the calculation with the following amounts, please:
 					<br />
-					Las reservas se realizan con el 50% del monto total de la estadía hasta el 31 de julio 2015 por medio de una transferencia/depósito a las cuentas que se confirmarán a la brevedad y el 50% restante hasta el 31 de octubre de 2015.
+					US$ 65 per day: includes accommodation with linen and towels (no room service), 1 breakfast, 1 lunch and 1 dinner
+					(not including fellowship dinner).
 					<br />
-					Una vez realizada la transferencia de reserva solicitamos envíe escaneado el comprobante al correo electrónico del V ELEN (<a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>), por favor indicar en el asunto RESERVA_ APELLIDO. Los cupones originales deberán ser presentados al ingresar a la residencia, de lo contrario se le cobrará el total de la estadía. En el cuerpo del mail indicar los apellidos y nombres a los que corresponde el depósito y con quienes compartiría habitación.
+					The residence offers rooms for 3-4 people with private bathrooms or shared bathrooms between two rooms. The
+					residence will not deal with the distribution of people in the rooms. It is recommended that, if possible, attendees were previously organized and they announce via e-mail to the organizers with whom they will share room.
+					<br />
+					Reservations will be made with 50% of the total amount of the stay until July 31st, 2015 by transfer / deposit to the bank account that will be confirmed shortly, and the remaining 50% until October 31st, 2015.
+					<br />
+					Once the transfer of the reservation is made, we request you to send the scanned proof to the e-mail address of the V ELEN (<a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>). In the matter you shall indicate RESERVATION_ LAST NAME. The original coupon must be presented at the Residence entrance; otherwise, the total of the stay will be charged. Indicate in the e-mail the full name which matches the payment deposit and who will you share a room with.
 					<br />
 					<br />
-					<h3>Otros alojamientos:</h3>En breve se proporcionará una lista de posibilidades en las cercanías de la residencia, pero la organización del V ELEN no se encargará de la reserva de las mismas. Quienes no se alojen en la residencia, podrán acceder a los servicios de comedor para el almuerzo y la cena a un costo aproximado de U$15/$100 por cada comida, las que se contratarán durante el desarrollo del evento.
+					<h3>Other accomodations:</h3>soon it will be published a list of possibilities in the proximities of the residence, but the organization of V ELEN do not handle the booking there. Those who will not be staying at the residence can access the catering for lunch and dinner at an approximate cost of US$ 15/$arg100 per meal, which will be paid for during the event.
 					<br />
-					<br />
-					 To read these conditions in English please refer to the <a href="/1st Announcement April 2015.pdf">1st announcement</a>.
 				</div>
 				</div>
 			</div>

@@ -95,7 +95,7 @@
 					<h2 id="Formulario">Registration form</h2>
 					<div id="error_box" style="display:none"></div>
 					<form name="formInscripcion" action="#" method="POST" enctype="multipart/form-data">
-						Los campos marcados con un asterisco son obligatorios.<br /><br />
+						Please fill in all the information requested below<br /><br />
 					
 						<label for="nombre">Name and Surname<req>*</req></label>
 						<input name="nombre" id="nombre" /><br />
@@ -152,66 +152,67 @@
 				
 				<div class="printSolo">
 					<h2 id="Costos">Registration fees</h2>
-					Se informará a la brevedad las cuentas disponibles para realizar los depósitos bancarios.
+					<br />
+					<h3>Cuenta para pago e inscripciones y alojamiento (pesos y dólares)</h3>
+					<br />
+					Banco Galicia
+					<br />
+					Cta. Cte. 0003228-3 089-2
+					<br />
+					CBU: 0070089420000003228322
+					<br />
+					Titular: Facultad de Ciencias Naturales e Instituto Miguel Lillo
+					<br />
+					<br />
+					<h3>IMPORTANTE:</h3> al valor de la inscripción y/o alojamiento que figuran en la página web correspondiente a la fecha deberá adicionar el MONTO COBRADO POR LA ENTIDAD BANCARIA POR TRANSFERENCIAS O DEPÓSITOS. Por ej. si el valor de la inscripción es de  $900 y el banco cobra $50 por la operación realizada (esto depende del banco en el cual se realice el depósito), el monto depositado deberá ser de $950. 
+					<br />
+					<br />
+					Enviar el comprobante a las siguientes direcciones: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicando en ASUNTO (subject): DEPÓSITO VELEN-LEPIDOPTERA 
+					<br />
+					<br />
+					En el cuerpo del mail indique el motivo del depósito (INSCRIPCIÓN y/o ALOJAMIENTO) y el o los nombres de las personas a las que corresponda. En caso de que el depósito sea por alojamiento, indique el período que permanecerá.
 					<br />
 					<br />
 					<table>
 						<tr>
-							<td>Participante</td>
-							<td>Hasta el 31/05</td>
-							<td>Hasta el 31/07</td>
-							<td>Hasta el 16/11</td>
+							<td>Attendant</td>
+							<td>Until the 31/05</td>
+							<td>Until the 31/07</td>
+							<td>Until the 16/11</td>
 						</tr>
 						<tr>
-							<td>Asistente/Expositor extranjero</td>
+							<td>Foreign Attendee/Speakers<</td>
 							<td>USD$150</td>
 							<td>USD$200</td>
 							<td>USD$280</td>
 						</tr>
 						<tr>
-							<td>Estudiante de posgrado extranjero*</td>
+							<td>Foreign Postgraduate student *</td>
 							<td>USD$100</td>
 							<td>USD$150</td>
 							<td>USD$220</td>
 						</tr>
 						<tr>
-							<td>Estudiante de grado extranjero*</td>
+							<td>Foreign Graduate student *</td>
 							<td>USD$70</td>
 							<td>USD$110</td>
 							<td>USD$150</td>
 						</tr>
-						<tr>
-							<td>Asistente/expositor argentino</td>
-							<td>$1000</td>
-							<td>$1500</td>
-							<td>$2000</td>
-						</tr>
-						<tr>
-							<td>Estudiante de posgrado argentino*</td>
-							<td>$800</td>
-							<td>$1000</td>
-							<td>$1200</td>
-						</tr>
-						<tr>
-							<td>Estudiante de grado argentino*</td>
-							<td>$600</td>
-							<td>$600</td>
-							<td>$600</td>
-						</tr>
 					</table>
 					<br />
-						* Deberán adjuntar certificación de la condición
+						* A document that certifies your student status must be attached.
+					<br />
+						Registration fees include: cocktail reception, a handbag/folder, morning and afternoon’s coffee breaks, CD with abstracts and a certificate.
 				</div>
 				
 				<div class="printSolo">
-					<h2 id="Resumenes">Presentaciones y Resúmenes</h2>
-					Podrán ser en español, portugués o inglés. Las presentaciones podrán ser en modalidad poster (P) u oral (O), y se organizarán en bloques temáticos. Dependiendo de la cantidad de trabajos presentados en cada modalidad y los tiempos y espacios disponibles, la comisión organizadora podrá modificar la modalidad previa comunicación con los autores.
-					Cualquiera sea la modalidad, los autores deberán enviar un resumen para su evaluación a <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a>. Se aceptarán hasta 2 (dos) presentaciones como primer autor por cada inscripción, pero puede estar presente como coautor en otros trabajos. El resumen deberá atenerse estrictamente al formato indicado en la plantilla.
+					<h2 id="Resumenes">Abstract submission and organization</h2>
+					The abstract can be in Spanish, Portuguese or English. The scientific work shall be presented in a poster (P) or in
+					oral format (O), and it should be organized by themes. Depending on the number of works presented per format,
+					time and room availables, the organizing committee may change the modality, after communication with the authors.
+					Regardless of format, participants shall present an abstract to be peer-reviewed to <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a>. While sending the abstract, the first author must be registered. Each one registered shall send up to two (2) abstracts, but are able to participate in other abstracts as co-authors.
 					<br />
 					<br />
-					Descargar la plantilla y ver las condiciones de envío en la <a href="/1era Circular Abril 2015.pdf">1era circular</a>.
-						<ul>
-							<li><a href="/Formato de resumen - Español.pdf">Plantilla</a></li>
 							<li><a href="/Abstract format - English.pdf">Template</a></li>
 						</ul>
 				</div>
