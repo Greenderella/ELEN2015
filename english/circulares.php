@@ -7,7 +7,7 @@
 					Theres is already available the first announcement of the V ELEN.
 				<br />
 				<br />
-					<a class="descarga" href="/1st Announcement April 2015.pdf">1st Announcement</a>
+					<a class="descarga" href="../Descargas/1st Announcement April 2015.pdf">1st Announcement</a>
 				</div>
 			</div>
 

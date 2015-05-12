@@ -13,13 +13,10 @@
 					</div>
 				<div>	
 					<br />
-					Promotion: From Monday, November 6th (06 pm) until Friday, November 20th (06 pm): US$ 250. Includes: bed
+					Promotion: From Monday, November 6th (06 pm) until Friday, November 20th (06 pm): US$ 250. Includes bed
 					linen and towels (no room service), breakfast, lunch and dinner (not including fellowship dinner).
 					<br />
-					If you will stay less days, perform the calculation with the following amounts, please:
-					<br />
-					US$ 65 per day: includes accommodation with linen and towels (no room service), 1 breakfast, 1 lunch and 1 dinner
-					(not including fellowship dinner).
+					If you will stay less days, perform the calculation with the following amounts: US$ 65 per day (includes accommodation with linen and towels -no room service-), 1 breakfast, 1 lunch and 1 dinner (not including fellowship dinner).
 					<br />
 					The residence offers rooms for 3-4 people with private bathrooms or shared bathrooms between two rooms. The
 					residence will not deal with the distribution of people in the rooms. It is recommended that, if possible, attendees were previously organized and they announce via e-mail to the organizers with whom they will share room.

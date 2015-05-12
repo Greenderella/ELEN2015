@@ -214,7 +214,7 @@
 					<br />
 					<h3>Deadline:</h3> 15 August
 					<br />
-							<li><a href="/Abstract format - English.pdf">Template</a></li>
+							<li><a href="../Descargas/Abstract format - English.pdf">Template</a></li>
 						</ul>
 				</div>
 				

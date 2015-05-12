@@ -164,7 +164,7 @@
 					Titular: Facultad de Ciencias Naturales e Instituto Miguel Lillo
 					<br />
 					<br />
-					<h3>IMPORTANTE:</h3> al valor de la inscripción y/o alojamiento que figuran en la página web correspondiente a la fecha deberá adicionar el MONTO COBRADO POR LA ENTIDAD BANCARIA POR TRANSFERENCIAS O DEPÓSITOS. Por ej. si el valor de la inscripción es de  $900 y el banco cobra $50 por la operación realizada (esto depende del banco en el cual se realice el depósito), el monto depositado deberá ser de $950. 
+					<h3>IMPORTANTE:</h3> Al valor de la inscripción y/o alojamiento que figuran en la página web correspondiente a la fecha deberá adicionar el MONTO COBRADO POR LA ENTIDAD BANCARIA POR TRANSFERENCIAS O DEPÓSITOS. Por ej. si el valor de la inscripción es de  $900 y el banco cobra $50 por la operación realizada (esto depende del banco en el cual se realice el depósito), el monto depositado deberá ser de $950. 
 					<br />
 					<br />
 					Enviar el comprobante a las siguientes direcciones: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicando en ASUNTO (subject): DEPÓSITO VELEN-LEPIDOPTERA 
@@ -227,10 +227,9 @@
 					Cualquiera sea la modalidad, los autores deberán enviar un resumen para su evaluación a <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a> hasta el 15 de agosto. Se aceptarán hasta 2 (dos) presentaciones como primer autor por cada inscripción, pero puede estar presente como coautor en otros trabajos. El resumen deberá atenerse estrictamente al formato indicado en la plantilla.
 					<br />
 					<br />
-					Descargar la plantilla y ver las condiciones de envío en la <a href="/1era Circular Abril 2015.pdf">1era circular</a>.
+					Descargar la plantilla y ver las condiciones de envío en la <a href="circulares.php#Circulares">1era circular</a>.
 						<ul>
-							<li><a href="/Formato de resumen - Español.pdf">Plantilla</a></li>
-							<li><a href="/Abstract format - English.pdf">Template</a></li>
+							<li><a href="Descargas/Formato de resumen - Español.pdf">Plantilla</a></li>
 						</ul>
 				</div>
 				

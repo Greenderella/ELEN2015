@@ -7,7 +7,7 @@
 					Ya se encuentra disponible la 1era circular del V ELEN.
 				<br />
 				<br />
-					<a class="descarga" href="/1era Circular Abril 2015.pdf">1era Circular</a>
+					<a class="descarga" href="Descargas/1era Circular Abril 2015.pdf">1era Circular</a>
 				</div>
 			</div>
 
