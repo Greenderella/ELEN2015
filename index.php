@@ -15,7 +15,7 @@
 								</div>
 								<h3>ELEN 2015</h3>
 								<p>
-									Se encuentra disponible la primera circular para el próximo ELEN.<a href="circulares.php#Circulares">Más...</a>
+									Se informa que ante las dificultades presentadas para efectuar el pago de la inscripción al congreso por parte de los asistentes extranjeros, se prorroga por 15 días el primer plazo del pago de la inscripción (nueva fecha: 15 de junio).<a href="circulares.php#Circulares">Más...</a>
 								</p>
 							</div>
 						</div>

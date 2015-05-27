@@ -159,6 +159,8 @@
 					<br />
 					Cta. Cte. 0003228-3 089-2
 					<br />
+					Codigo SWIFT del banco Galicia: GABAARBA
+					<br />
 					CBU: 0070089420000003228322
 					<br />
 					Titular: Facultad de Ciencias Naturales e Instituto Miguel Lillo
@@ -176,7 +178,7 @@
 					<table>
 						<tr>
 							<td>Participante</td>
-							<td>Hasta el 31/05</td>
+							<td>Hasta el 15/06</td>
 							<td>Hasta el 31/07</td>
 							<td>Hasta el 16/11</td>
 						</tr>
