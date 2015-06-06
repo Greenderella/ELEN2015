@@ -153,29 +153,17 @@
 				<div class="printSolo">
 					<h2 id="Costos">Registration fees</h2>
 					<br />
-					<h3>Bank account</h3>
-					Banco Galicia
+					<h3>IMPORTANT:</h3> Due to complications by foreign attendees, a new deadline for registration has been set. The new deadline will be the 15th of June.
 					<br />
-					Cta. Cte. 0003228-3 089-2
+					The attendees can pay the  meeting and accommodation fees with PayPal. You must send the money to "Adriana Elizabeth Chalup", DNI: 16000591, Address: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.
 					<br />
-					CBU: 0070089420000003228322
-					<br />
-					Titular: Facultad de Ciencias Naturales e Instituto Miguel Lillo
-					<br />
-					<br />
-					<h3>IMPORTANTE:</h3> Al valor de la inscripción y/o alojamiento que figuran en la página web correspondiente a la fecha deberá adicionar el MONTO COBRADO POR LA ENTIDAD BANCARIA POR TRANSFERENCIAS O DEPÓSITOS. Por ej. si el valor de la inscripción es de  $900 y el banco cobra $50 por la operación realizada (esto depende del banco en el cual se realice el depósito), el monto depositado deberá ser de $950. 
-					<br />
-					<br />
-					Enviar el comprobante a las siguientes direcciones: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicando en ASUNTO (subject): DEPÓSITO VELEN-LEPIDOPTERA 
-					<br />
-					<br />
-					En el cuerpo del mail indique el motivo del depósito (INSCRIPCIÓN y/o ALOJAMIENTO) y el o los nombres de las personas a las que corresponda. En caso de que el depósito sea por alojamiento, indique el período que permanecerá.
+					Please send your registration's receipt to the following account: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicating in the subject: DEPÓSITO V ELEN-LEPIDOPTERA 
 					<br />
 					<br />
 					<table>
 						<tr>
 							<td>Attendant</td>
-							<td>Until the 31/05</td>
+							<td>Until the 15/06</td>
 							<td>Until the 31/07</td>
 							<td>Until the 16/11</td>
 						</tr>
