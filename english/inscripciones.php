@@ -154,7 +154,6 @@
 					<h2 id="Costos">Registration fees</h2>
 					<br />
 					<h3>Bank account</h3>
-					<br />
 					Banco Galicia
 					<br />
 					Cta. Cte. 0003228-3 089-2
@@ -164,7 +163,7 @@
 					Titular: Facultad de Ciencias Naturales e Instituto Miguel Lillo
 					<br />
 					<br />
-					<h3>IMPORTANTE:</h3> al valor de la inscripción y/o alojamiento que figuran en la página web correspondiente a la fecha deberá adicionar el MONTO COBRADO POR LA ENTIDAD BANCARIA POR TRANSFERENCIAS O DEPÓSITOS. Por ej. si el valor de la inscripción es de  $900 y el banco cobra $50 por la operación realizada (esto depende del banco en el cual se realice el depósito), el monto depositado deberá ser de $950. 
+					<h3>IMPORTANTE:</h3> Al valor de la inscripción y/o alojamiento que figuran en la página web correspondiente a la fecha deberá adicionar el MONTO COBRADO POR LA ENTIDAD BANCARIA POR TRANSFERENCIAS O DEPÓSITOS. Por ej. si el valor de la inscripción es de  $900 y el banco cobra $50 por la operación realizada (esto depende del banco en el cual se realice el depósito), el monto depositado deberá ser de $950. 
 					<br />
 					<br />
 					Enviar el comprobante a las siguientes direcciones: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicando en ASUNTO (subject): DEPÓSITO VELEN-LEPIDOPTERA 

@@ -56,7 +56,7 @@
 						</div>
 						<div class="text">
 							<p>
-								The 5th MEETING OF NEOTROPICAL LEPIDOPTERA (V ELEN) will be held at the “Horco Molle university residence” (Tucumán, Argentina) to November 16 to the 20th, 2015. The residence belongs to the National University of Tucuman, and it is located 15 km from San Miguel de Tucuman city. It has rooms for three and four people, with a total capacity for 150 people and it is surrounded by the beautiful Yungas (cloudforest), one of the most diverse forests on the world. There are other places for the participants to stay (contact details will be provided soon).<br />
+								The 5th MEETING OF NEOTROPICAL LEPIDOPTERA (V ELEN) will be held at the “Horco Molle university residence” (Tucumán, Argentina) from November 16 to the 20th, 2015. The residence belongs to the National University of Tucuman, and it is located 15 km from San Miguel de Tucuman city. It has rooms for three and four people, with a total capacity for 150 people and it is surrounded by the beautiful Yungas (cloudforest), one of the most diverse forests on the world. There are other places for the participants to stay (contact details will be provided soon).<br />
 							</p>
 						</div>
 						<div class="clear"></div>

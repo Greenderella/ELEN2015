@@ -154,7 +154,6 @@
 					<h2 id="Costos">Costos y formas de pago</h2>
 					<br />
 					<h3>Cuenta para pago e inscripciones y alojamiento (pesos y dólares)</h3>
-					<br />
 					Banco Galicia
 					<br />
 					Cta. Cte. 0003228-3 089-2
@@ -166,13 +165,23 @@
 					Titular: Facultad de Ciencias Naturales e Instituto Miguel Lillo
 					<br />
 					<br />
-					<h3>IMPORTANTE:</h3> Al valor de la inscripción y/o alojamiento que figuran en la página web correspondiente a la fecha deberá adicionar el MONTO COBRADO POR LA ENTIDAD BANCARIA POR TRANSFERENCIAS O DEPÓSITOS. Por ej. si el valor de la inscripción es de  $900 y el banco cobra $50 por la operación realizada (esto depende del banco en el cual se realice el depósito), el monto depositado deberá ser de $950. 
+					Al valor de la inscripción y/o alojamiento que figuran en la página web correspondiente a la fecha deberá adicionar el MONTO COBRADO POR LA ENTIDAD BANCARIA POR TRANSFERENCIAS O DEPÓSITOS. Por ej. si el valor de la inscripción es de  $900 y el banco cobra $50 por la operación realizada (esto depende del banco en el cual se realice el depósito), el monto depositado deberá ser de $950. 
 					<br />
 					<br />
-					Enviar el comprobante a las siguientes direcciones: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicando en ASUNTO (subject): DEPÓSITO VELEN-LEPIDOPTERA 
+					<h3>NOVEDADES:</h3>
+					Ante las dificultades para pago desde el exterior, se fija una nueva fecha para el pago de la inscripción con el primer valor. La misma será el lunes 15/6 (inclusive).
+					<br />
+					La alternativa es pago por Western Union. El envío deberá hacerse a nombre de "Adriana Elizabeth Chalup", DNI: 16000591, Domicilio: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.
 					<br />
 					<br />
-					En el cuerpo del mail indique el motivo del depósito (INSCRIPCIÓN y/o ALOJAMIENTO) y el o los nombres de las personas a las que corresponda. En caso de que el depósito sea por alojamiento, indique el período que permanecerá.
+					Enviar el comprobante a las siguientes direcciones: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicando en asunto (subject): DEPÓSITO VELEN-LEPIDOPTERA, en el mismo debe poder visualizarse con claridad EL NÚMERO DE TRANSFERENCIA.
+					<br />
+					<br />
+					En el cuerpo del mail indique el motivo del depósito (INSCRIPCIÓN y/o ALOJAMIENTO) y el o los nombres de las personas a las que corresponda. En caso de que el depósito sea por alojamiento, indique el período que permanecerá. 
+					<br />
+					Se puede realizar una sola transacción que incluya la inscripción y/o alojamiento de varias personas, pero deberá aclararse en el mail a quienes corresponde.
+					<br />
+					Se puede realizar el pago del alojamiento de una sola vez antes del 31/7, o en dos partes: el 50% hasta el 31/7 y el 50% restante hasta el 31/10. El pago del 50% hasta el 31/7 y 50% al 31/10 es OPCIONAL. 
 					<br />
 					<br />
 					<table>
