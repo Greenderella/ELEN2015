@@ -25,8 +25,6 @@
 					<br />
 					<h3>Otros alojamientos:</h3><a href="Descargas/Hoteles Tucumán.pdf">Lista de posibilidades en las cercanías de la residencia</a>, se recalca que la organización del V ELEN no se encargará de la reserva de las mismas. Quienes no se alojen en la residencia, podrán acceder a los servicios de comedor para el almuerzo y la cena a un costo aproximado de U$15/$100 por cada comida, las que se contratarán durante el desarrollo del evento.
 					<br />
-					<br />
-					 To read these conditions in English please refer to the <a href="Descargas/1st Announcement April 2015.pdf">1st announcement</a>.
 				</div>
 				</div>
 			</div>
