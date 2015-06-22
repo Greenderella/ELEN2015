@@ -155,7 +155,7 @@
 					<br />
 					<h3>IMPORTANT:</h3> Due to complications by foreign attendees, a new deadline for registration has been set. The new deadline will be the 15th of June.
 					<br />
-					The attendees can pay the  meeting and accommodation fees with PayPal. You must send the money to "Adriana Elizabeth Chalup", DNI: 16000591, Address: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.
+					The attendees can pay the  meeting and accommodation fees with Western Union. You must send the money to "Adriana Elizabeth Chalup", DNI: 16000591, Address: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.
 					<br />
 					Please send your registration's receipt to the following account: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicating in the subject: DEPÓSITO V ELEN-LEPIDOPTERA 
 					<br />
@@ -163,7 +163,7 @@
 					<table>
 						<tr>
 							<td>Attendant</td>
-							<td>Until the 15/06</td>
+							<td>Until the 30/06</td>
 							<td>Until the 31/07</td>
 							<td>Until the 16/11</td>
 						</tr>
