@@ -153,7 +153,7 @@
 				<div class="printSolo">
 					<h2 id="Costos">Registration fees</h2>
 					<br />
-					<h3>IMPORTANT:</h3> Due to complications by foreign attendees, a new deadline for registration has been set. The new deadline will be the 15th of June.
+					<h3>IMPORTANT:</h3> Due to complications by foreign attendees, a new deadline for registration has been set. The new deadline will be the 30th of June.
 					<br />
 					The attendees can pay the  meeting and accommodation fees with Western Union. You must send the money to "Adriana Elizabeth Chalup", DNI: 16000591, Address: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.
 					<br />
