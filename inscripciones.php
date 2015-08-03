@@ -171,7 +171,8 @@
 					<h3>NOVEDADES:</h3>
 					Se extiende el plazo de la segunda inscripción hasta el 30 de Agosto.
 					<br />
-					La alternativa es pago por Western Union. El envío deberá hacerse a nombre de "Adriana Elizabeth Chalup", DNI: 16000591, Domicilio: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.
+					<h3>PAGO POR WESTERN UNION:</h3>
+					El envío deberá hacerse a nombre de "Adriana Elizabeth Chalup", DNI: 16000591, Domicilio: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.
 					<br />
 					<br />
 					Enviar el comprobante a las siguientes direcciones: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicando en asunto (subject): DEPÓSITO VELEN-LEPIDOPTERA, en el mismo debe poder visualizarse con claridad EL NÚMERO DE TRANSFERENCIA.

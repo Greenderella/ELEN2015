@@ -155,6 +155,7 @@
 					<br />
 					<h3>IMPORTANT:</h3> The second enrollment term runs until the 30th of August.
 					<br />
+					<h3>WESTERN UNION:</h3>
 					The attendees can pay the  meeting and accommodation fees with Western Union. You must send the money to "Adriana Elizabeth Chalup", DNI: 16000591, Address: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.
 					<br />
 					Please send your registration's receipt to the following account: <a href="jcuezzo@csnat.unt.edu.ar">jcuezzo@csnat.unt.edu.ar</a> y <a href="elen2015inscripciones@gmail.com">elen2015inscripciones@gmail.com</a>, indicating in the subject: DEPÓSITO V ELEN-LEPIDOPTERA 
