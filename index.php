@@ -15,7 +15,7 @@
 								</div>
 								<h3>ELEN 2015</h3>
 								<p>
-									Se informa que ante las dificultades presentadas para efectuar el pago de la inscripción al congreso por parte de los asistentes extranjeros, se prorroga por 15 días el primer plazo del pago de la inscripción (nueva fecha: 15 de junio) y se habilita como medio de pago alternativo una cuenta en Western Union. <a href="inscripciones.php#Costos">Más...</a>
+									Se extiende el plazo de la segunda inscripción hasta el 30 de Agosto. Próximamente se viene la 2º circular con novedades sobre los simposios y actividades programadas. <a href="inscripciones.php#Costos">Más...</a>
 								</p>
 							</div>
 						</div>

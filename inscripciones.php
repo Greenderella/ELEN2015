@@ -169,7 +169,7 @@
 					<br />
 					<br />
 					<h3>NOVEDADES:</h3>
-					Ante las dificultades para pago desde el exterior, se fija una nueva fecha para el pago de la inscripción con el primer valor. La misma será el martes 30/6 (inclusive).
+					Se extiende el plazo de la segunda inscripción hasta el 30 de Agosto.
 					<br />
 					La alternativa es pago por Western Union. El envío deberá hacerse a nombre de "Adriana Elizabeth Chalup", DNI: 16000591, Domicilio: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.
 					<br />
@@ -188,7 +188,7 @@
 						<tr>
 							<td>Participante</td>
 							<td>Hasta el 30/06</td>
-							<td>Hasta el 31/07</td>
+							<td>Hasta el 30/08</td>
 							<td>Hasta el 16/11</td>
 						</tr>
 						<tr>

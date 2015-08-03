@@ -15,7 +15,7 @@
 								</div>
 								<h3>ELEN 2015</h3>
 								<p>
-									Theres is already available the first announcement of the V ELEN.<a href="english/circulares.php#Circulares"> More...</a>
+									The second enrollment term runs until the 30th of August.<a href="english/inscripciones.php#Costos"> More...</a>
 								</p>
 							</div>
 						</div>
