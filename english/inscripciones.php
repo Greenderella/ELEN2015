@@ -153,7 +153,8 @@
 				<div class="printSolo">
 					<h2 id="Costos">Registration fees</h2>
 					<br />
-					<h3>IMPORTANT:</h3> The second enrollment term runs until the 30th of August.
+					<h3>IMPORTANT:</h3> 
+					The second enrollment term runs until the 30th of August.
 					<br />
 					<h3>WESTERN UNION:</h3>
 					The attendees can pay the  meeting and accommodation fees with Western Union. You must send the money to "Adriana Elizabeth Chalup", DNI: 16000591, Address: Miguel Lillo 251, San Miguel de Tucumán, CP 4000.

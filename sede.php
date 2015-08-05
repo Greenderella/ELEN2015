@@ -18,7 +18,9 @@
 					<br />
 					Las habitaciones disponibles son para 3 o 4 personas, con baño individual o bien baños compartidos entre dos habitaciones. La residencia no se ocupará de la distribución de las personas en las habitaciones. Se recomienda que, de ser posible, los asistentes se organicen previamente y comuniquen por correo electrónico quienes compartirían habitación a los organizadores del V ELEN.
 					<br />
-					Las reservas se realizan con el 50% del monto total de la estadía hasta el 31 de julio 2015 por medio de una transferencia/depósito a las cuentas que se confirmarán a la brevedad y el 50% restante hasta el 31 de octubre de 2015.
+					<br />
+					<h3>NOVEDADES:</h3>
+					Las reservas se realizan con el 50% del monto total de la estadía hasta el 31 de agosto 2015 por medio de una transferencia/depósito y el 50% restante hasta el 31 de octubre de 2015.
 					<br />
 					Una vez realizada la transferencia de reserva solicitamos envíe escaneado el comprobante al correo electrónico del V ELEN (<a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>), por favor indicar en el asunto RESERVA_ APELLIDO. Los cupones originales deberán ser presentados al ingresar a la residencia, de lo contrario se le cobrará el total de la estadía. En el cuerpo del mail indicar los apellidos y nombres a los que corresponde el depósito y con quienes compartiría habitación.
 					<br />
