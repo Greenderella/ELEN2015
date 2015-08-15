@@ -29,13 +29,12 @@
 								</div>
 								<h3>Organizadoras</h3>
 								<ul>
-									<li>Facultad de Ciencias Naturales - Universidad Nacional de Tucumán (FCN - UNT)</li>
-									<li>Fundación Miguel Lillo</li>
+									<li>Facultad de Ciencias Naturales - Universidad Nacional de Tucumán <a target="_blank" href="http://www.csnat.unt.edu.ar/">(FCN - UNT)</a></li>
+									<li><a target="_blank" href="http://www.lillo.org.ar/">Fundación Miguel Lillo</a></li>
 								</ul>
 								<h3>Auspiciantes</h3>
 								<ul>
-									<li>Facultad de Ciencias Exactas Físicas y Naturales - Universidad Nacional de Córdoba (FCFyN - UNC)</li>
-									<li>Fondo para la Investigación Científica y Tecnológica (FONCYT)</li>
+									<li>Fondo para la Investigación Científica y Tecnológica <a target="_blank" href="http://www.agencia.mincyt.gob.ar/frontend/agencia/fondo/foncyt">(FONCYT)</a></li>
 								</ul>
 							</div>
 						</div>
