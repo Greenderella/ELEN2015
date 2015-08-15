@@ -13,14 +13,14 @@
 					</div>
 				<div>	
 					<br />
-					La residencia cuenta con un servicio de pensión completa (desayuno, almuerzo y cena), la cual tendrá un costo total por persona de U$ 250/$Arg1600 (con ingreso el día lunes 6/11 a partir de las 18 horas hasta el viernes 20/11 a las 18 horas), el alojamiento incluye ropa de cama y toallas (sin servicio de cuarto), la cena de camaradería no se encuentra incluida.
+					La residencia cuenta con un servicio de pensión completa (desayuno, almuerzo y cena), la cual tendrá un costo total por persona de U$ 250/$Arg1600 (con ingreso el día lunes 16/11 a partir de las 18 horas hasta el viernes 20/11 a las 18 horas), el alojamiento incluye ropa de cama y toallas (sin servicio de cuarto), la cena de camaradería no se encuentra incluida.
 					El caso de hospedarse una menor cantidad de días, por favor tengan en cuenta que el costo por día es de U$65/$arg420.
 					<br />
 					Las habitaciones disponibles son para 3 o 4 personas, con baño individual o bien baños compartidos entre dos habitaciones. La residencia no se ocupará de la distribución de las personas en las habitaciones. Se recomienda que, de ser posible, los asistentes se organicen previamente y comuniquen por correo electrónico quienes compartirían habitación a los organizadores del V ELEN.
 					<br />
 					<br />
 					<h3>NOVEDADES:</h3>
-					Las reservas se realizan con el 50% del monto total de la estadía hasta el 31 de agosto 2015 por medio de una transferencia/depósito y el 50% restante hasta el 31 de octubre de 2015.
+					Las reservas se realizan con el 50% del monto total de la estadía hasta el 31 de agosto 2015 por medio de una transferencia/depósito y el 50% a cancerlarse al momento de la acreditación.
 					<br />
 					Una vez realizada la transferencia de reserva solicitamos envíe escaneado el comprobante al correo electrónico del V ELEN (<a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>), por favor indicar en el asunto RESERVA_ APELLIDO. Los cupones originales deberán ser presentados al ingresar a la residencia, de lo contrario se le cobrará el total de la estadía. En el cuerpo del mail indicar los apellidos y nombres a los que corresponde el depósito y con quienes compartiría habitación.
 					<br />
