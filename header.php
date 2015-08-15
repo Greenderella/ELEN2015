@@ -102,12 +102,11 @@
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
 								<span class="sdt_link">Circulares</span>
-								<span class="sdt_descr">y recomendaciones</span>
+								<span class="sdt_descr">Recomendaciones</span>
 							</span>
 						</a>
 						<div class="sdt_box">
 							<a href="circulares.php#Circulares">2<sup>da</sup> Circular</a>
-						<div class="sdt_box">
 							<a href="circulares.php#Recomendaciones">Recomendaciones</a>
 						</div>
 					</li>
