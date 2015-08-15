@@ -15,7 +15,7 @@
 								</div>
 								<h3>ELEN 2015</h3>
 								<p>
-									Se extiende el plazo de la segunda inscripción hasta el 30 de Agosto. Próximamente se viene la 2º circular con novedades sobre los simposios y actividades programadas. <a href="inscripciones.php#Costos">Más...</a>
+									Ya se encuentra disponible la 2da circular del V ELEN. <a href="circulares.php">Más...</a>
 								</p>
 							</div>
 						</div>
@@ -35,7 +35,7 @@
 								<h3>Auspiciantes</h3>
 								<ul>
 									<li>Facultad de Ciencias Exactas Físicas y Naturales - Universidad Nacional de Córdoba (FCFyN - UNC)</li>
-									<li>Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)</li>
+									<li>Fondo para la Investigación Científica y Tecnológica (FONCYT)</li>
 								</ul>
 							</div>
 						</div>
