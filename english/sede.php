@@ -13,7 +13,7 @@
 					</div>
 				<div>	
 					<br />
-					Promotion: From Monday, November 6th (06 pm) until Friday, November 20th (06 pm): US$ 250. Includes bed
+					Promotion: From Monday, November 16th (06 pm) until Friday, November 20th (06 pm): US$ 250. Includes bed
 					linen and towels (no room service), breakfast, lunch and dinner (not including fellowship dinner).
 					<br />
 					If you will stay less days, perform the calculation with the following amounts: US$ 65 per day (includes accommodation with linen and towels -no room service-), 1 breakfast, 1 lunch and 1 dinner (not including fellowship dinner).

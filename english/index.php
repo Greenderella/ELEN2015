@@ -15,7 +15,7 @@
 								</div>
 								<h3>ELEN 2015</h3>
 								<p>
-									The second enrollment term runs until the 30th of August.<a href="english/inscripciones.php#Costos"> More...</a>
+									Theres is already available the second announcement of the V ELEN.<a href="english/circulares.php"> More...</a>
 								</p>
 							</div>
 						</div>
@@ -29,13 +29,12 @@
 								</div>
 								<h3>Organizers</h3>
 								<ul>
-									<li>Facultad de Ciencias Naturales - Universidad Nacional de Tucumán (FCN - UNT)</li>
-									<li>Fundación Miguel Lillo</li>
+									<li>Facultad de Ciencias Naturales - Universidad Nacional de Tucumán <a target="_blank" href="http://www.csnat.unt.edu.ar/">(FCN - UNT)</a></li>
+									<li><a target="_blank" href="http://www.lillo.org.ar/">Fundación Miguel Lillo</a></li>
 								</ul>
 								<h3>Sponsors</h3>
 								<ul>
-									<li>Facultad de Ciencias Exactas Físicas y Naturales - Universidad Nacional de Córdoba (FCFyN - UNC)</li>
-									<li>The National Scientific and Technical Research Council (CONICET)</li>
+									<li>Fondo para la Investigación Científica y Tecnológica <a target="_blank" href="http://www.agencia.mincyt.gob.ar/frontend/agencia/fondo/foncyt">(FONCYT)</a></li>
 								</ul>
 							</div>
 						</div>
