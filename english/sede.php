@@ -28,7 +28,7 @@
 					Once the transfer of the reservation is made, we request you to send the scanned proof to the e-mail address of the V ELEN (<a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>). In the matter you shall indicate RESERVATION_ LAST NAME. The original coupon must be presented at the Residence entrance; otherwise, the total of the stay will be charged. Indicate in the e-mail the full name which matches the payment deposit and who will you share a room with.
 					<br />
 					<br />
-					<h3>Other accomodations:</h3><a href="Descargas/Hoteles Tucumán.pdf">List of possibilities in the proximities of the residence</a>, remember that the organization of V ELEN do not handle the booking there. Those who will not be staying at the residence can access the catering for lunch and dinner at an approximate cost of US$ 15/$arg100 per meal, which will be paid for during the event.
+					<h3>Other accomodations:</h3><a href="../Descargas/Hoteles Tucumán.pdf">List of possibilities in the proximities of the residence</a>, remember that the organization of V ELEN do not handle the booking there. Those who will not be staying at the residence can access the catering for lunch and dinner at an approximate cost of US$ 15/$arg100 per meal, which will be paid for during the event.
 					<br />
 				</div>
 				</div>
