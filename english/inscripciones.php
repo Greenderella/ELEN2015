@@ -201,7 +201,7 @@
 					time and room availables, the organizing committee may change the modality, after communication with the authors.
 					Regardless of format, participants shall present an abstract to be peer-reviewed to <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a>. While sending the abstract, the first author must be registered. Each one registered shall send up to two (2) abstracts, but are able to participate in other abstracts as co-authors.
 					<br />
-					<h3>Deadline:</h3> 15 August
+					<h3>Deadline:</h3> 15th September
 					<br />
 							<li><a href="../Descargas/Abstract format - English.pdf">Template</a></li>
 						</ul>

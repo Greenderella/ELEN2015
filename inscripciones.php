@@ -182,8 +182,6 @@
 					<br />
 					Se puede realizar una sola transacción que incluya la inscripción y/o alojamiento de varias personas, pero deberá aclararse en el mail a quienes corresponde.
 					<br />
-					Se puede realizar el pago del alojamiento de una sola vez antes del 31/7, o en dos partes: el 50% hasta el 31/7 y el 50% restante hasta el 31/10. El pago del 50% hasta el 31/7 y 50% al 31/10 es OPCIONAL. 
-					<br />
 					<br />
 					<table>
 						<tr>
@@ -230,13 +228,13 @@
 						</tr>
 					</table>
 					<br />
-						* Deberán adjuntar certificación de la condición
+						* Deberán adjuntar certificado de la condición
 				</div>
 				
 				<div class="printSolo">
 					<h2 id="Resumenes">Presentaciones y Resúmenes</h2>
 					Podrán ser en español, portugués o inglés. Las presentaciones podrán ser en modalidad poster (P) u oral (O), y se organizarán en bloques temáticos. Dependiendo de la cantidad de trabajos presentados en cada modalidad y los tiempos y espacios disponibles, la comisión organizadora podrá modificar la modalidad previa comunicación con los autores.
-					Cualquiera sea la modalidad, los autores deberán enviar un resumen para su evaluación a <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a> hasta el 15 de agosto. Se aceptarán hasta 2 (dos) presentaciones como primer autor por cada inscripción, pero puede estar presente como coautor en otros trabajos. El resumen deberá atenerse estrictamente al formato indicado en la plantilla.
+					Cualquiera sea la modalidad, los autores deberán enviar un resumen para su evaluación a <a href="mailto:elen2015resumenes@gmail.com">elen2015resumenes@gmail.com</a> hasta el 15 de septiembre. Se aceptarán hasta 2 (dos) presentaciones como primer autor por cada inscripción, pero puede estar presente como coautor en otros trabajos. El resumen deberá atenerse estrictamente al formato indicado en la plantilla.
 					<br />
 					<br />
 					Descargar la plantilla y ver las condiciones de envío en la <a href="circulares.php#Circulares">1era circular</a>.
