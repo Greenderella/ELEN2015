@@ -23,7 +23,7 @@
 					<br />
 					<br />
 					<h3>IMPORTANT:</h3>
-					Reservations will be made with 50% of the total amount of the stay until August 31st, 2015 by transfer / deposit to the bank account or using Paypal, and the remaining 50% until October 31st, 2015.
+					Reservations will be made with 50% of the total amount of the stay until August 31st, 2015 by transfer / deposit to the bank account or using Paypal, and the remaining 50% until November 16st, 2015.
 					<br />
 					Once the transfer of the reservation is made, we request you to send the scanned proof to the e-mail address of the V ELEN (<a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>). In the matter you shall indicate RESERVATION_ LAST NAME. The original coupon must be presented at the Residence entrance; otherwise, the total of the stay will be charged. Indicate in the e-mail the full name which matches the payment deposit and who will you share a room with.
 					<br />
