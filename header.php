@@ -63,6 +63,7 @@
 						<div class="sdt_box">
 							<a href="cronograma.php#Areas">Areas temáticas</a>
 							<a href="cronograma.php#Modalidades">Convocatoria a simposios</a>
+							<a href="cronograma.php#Concurso">Concurso de fotografía</a>
 							<a href="cronograma.php#Cronograma">Cronograma</a>
 						</div>
 					</li>

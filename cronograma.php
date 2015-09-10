@@ -30,6 +30,24 @@
 				</div>
 				
 				<div class="printSolo">
+				<h2 id="Concurso">Concurso de fotografía</h2>
+					Temática del concurso: “La vida de las mariposas y polillas en ambientes naturales”
+					<br />
+					<br />
+					El concurso es abierto y gratuito para todas aquellas personas, mayores de 18 años, interesadas en enviar sus obras, aceptando las bases y condiciones dentro las tres categorías de participación: 
+					<ul>
+						<li>Categoría I: Convocatoria general para todos los interesados. Obras con imágenes de adultos de mariposas o polillas.</a></li> 
+						<li>Categoría II: Convocatoria general para todos los interesados. Obras con imágenes de estados inmaduros (huevo, oruga, pupa) de mariposas o polillas.</a></li> 
+						<li>Categoría III: Miembros de la comisión organizadora del V ELEN 2015. Obras con imágenes de adultos y orugas.</li> 
+					</ul>
+					<br />
+					Bases y condiciones disponibles a continuación:
+					<br />
+					<br />
+					<a class="descarga" href="REGLAMENTO DEL CONCURSO DE FOTOGRAFÍA FINAL.docx">Reglamento del concurso</a>
+				</div>
+				
+				<div class="printSolo">
 					<a href="javascript:window.print();">
 						<img class="action" src="image/print.png"/>
 					</a>
