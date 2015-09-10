@@ -44,7 +44,7 @@
 					Bases y condiciones disponibles a continuación:
 					<br />
 					<br />
-					<a class="descarga" href="REGLAMENTO DEL CONCURSO DE FOTOGRAFÍA FINAL.docx">Reglamento del concurso</a>
+					<a class="descarga" href="Descargas/REGLAMENTO DEL CONCURSO DE FOTOGRAFÍA FINAL.docx">Reglamento del concurso</a>
 				</div>
 				
 				<div class="printSolo">
