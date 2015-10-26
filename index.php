@@ -15,7 +15,7 @@
 								</div>
 								<h3>ELEN 2015</h3>
 								<p>
-									Ya se encuentra disponible la 2da circular del V ELEN. <a href="circulares.php">Más...</a>
+									Ya se encuentra disponible la 3era y última circular del V ELEN. <a href="circulares.php">Más...</a>
 								</p>
 							</div>
 						</div>
