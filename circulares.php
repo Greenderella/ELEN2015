@@ -7,7 +7,7 @@
 					Ya se encuentra disponible la 3ra y última circular del V ELEN.
 				<br />
 				<br />
-					<a class="descarga" href="Descargas/ULTIMA CIRCULAR V ELEN esp.pdf">2da Circular</a>
+					<a class="descarga" href="Descargas/ULTIMA CIRCULAR V ELEN esp.pdf">3era Circular</a>
 				</div>
 			</div>
 			
