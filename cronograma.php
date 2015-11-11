@@ -53,7 +53,10 @@
 					</a>
 					<h2 id="Cronograma">Cronograma</h2>
 					<br />
-						Próximamente nuevo cronograma de actividades.
+					Cronograma definitivo para el V ELEN
+				<br />
+				<br />
+					<a class="descarga" href="Descargas/CRONOGRAMA FINAL.pdf">CRONOGRAMA FINAL</a>
 				</div>
 			</div>
 <?php

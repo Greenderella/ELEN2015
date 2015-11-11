@@ -107,7 +107,7 @@
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="circulares.php#Circulares">2<sup>da</sup> Circular</a>
+							<a href="circulares.php#Circulares">3<sup>ra</sup> Circular</a>
 							<a href="circulares.php#Recomendaciones">Recomendaciones</a>
 						</div>
 					</li>
