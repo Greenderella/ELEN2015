@@ -56,13 +56,11 @@
 							<img src="image/2.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">ELEN</span>
-								<span class="sdt_descr">2015</span>
+								<span class="sdt_link">VI ELEN</span>
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="cronograma.php#Areas">Areas temáticas</a>
-							<a href="cronograma.php#Cronograma">Cronograma</a>
+							<a href="cronograma.php#VIELEN">IV ELEN 2018</a>
 						</div>
 					</li>
 					<li>
