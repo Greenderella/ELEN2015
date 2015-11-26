@@ -3,19 +3,9 @@
 ?>
 			<div class="wrap">
 				<div class="printSolo">
-					<h2 id="Circulares">Circulares</h2>
-					Ya se encuentra disponible la 3ra y última circular del V ELEN.
-				<br />
-				<br />
-					<a class="descarga" href="Descargas/ULTIMA CIRCULAR V ELEN esp corregido.pdf">3era Circular</a>
-				</div>
-			</div>
-			
-			<div class="wrap">
-				<div class="printSolo">
-					<h2 id="Recomendaciones">Recomendaciones</h2>
-					<li>Les recordamos a los que traigan aparatos eléctricos, que el voltaje en Argentina es 220V.</li>
-					<li>La residencia se encuentra en ambiente de yungas, recomendamos traer consigo repelente para insectos (sobre todo para las actividades al aire libre) y protector solar.</li>
+					<h2 id="Fotos">Galeria de fotos</h2>
+					Alentamos a todos los participantes a mandarnos sus mejores fotos para incorporar a la galería virtual del encuentro, vía mail a <a href="mailto:elen2015argentina@gmail.com">elen2015argentina@gmail.com</a>
+					o a nuestro <a target="_blank" href="https://www.facebook.com/5toELEN">Facebook <i>(facebook.com/5toELEN)</i></a>.
 				</div>
 			</div>
 

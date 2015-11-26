@@ -17,7 +17,7 @@
 		<?php include_once("analyticstracking.php") ?>
 	
 		<div class="fancy"><img src="image/fondo.png"></div>
-		<div class="lang"><a href="english/<?php echo basename($_SERVER['PHP_SELF']); ?>">English</a> / Español</div>
+		
 		<a href="index.php" class="logo">
 			<div>
 				<h1>V Encuentro de Lepidoptera Neotropicales</h1>
@@ -62,8 +62,6 @@
 						</a>
 						<div class="sdt_box">
 							<a href="cronograma.php#Areas">Areas temáticas</a>
-							<a href="cronograma.php#Modalidades">Convocatoria a simposios</a>
-							<a href="cronograma.php#Concurso">Concurso de fotografía</a>
 							<a href="cronograma.php#Cronograma">Cronograma</a>
 						</div>
 					</li>
@@ -72,14 +70,11 @@
 						<img src="image/3.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Inscripción</span>
-								<span class="sdt_descr">y Resúmenes</span>
+								<span class="sdt_link">Resúmenes</span>
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="inscripciones.php#Formulario">Formulario de inscripción</a>
-							<a href="inscripciones.php#Costos">Costos y forma de pago</a>
-							<a href="inscripciones.php#Resumenes">Envío de resúmenes</a>
+							<a href="inscripciones.php#Resumenes">Libro de resúmenes</a>
 						</div>
 					</li>
 					<li>
@@ -94,7 +89,6 @@
 						<div class="sdt_box">
 							<a href="colectas.php#Colectas">Colectas científicas en Argentina</a>
 							<a href="colectas.php#Colecciones">Visitas a la colección del "Instituto y Fundación Miguel Lillo"</a>
-							<a href="colectas.php#Viajes">Viaje de campo</a>
 						</div>
 					</li>
 					<li>
@@ -102,13 +96,11 @@
 							<img src="image/5.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
-								<span class="sdt_link">Circulares</span>
-								<span class="sdt_descr">Recomendaciones</span>
+								<span class="sdt_link">Fotos</span>
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="circulares.php#Circulares">3<sup>ra</sup> Circular</a>
-							<a href="circulares.php#Recomendaciones">Recomendaciones</a>
+							<a href="circulares.php#Circulares">Galería</a>
 						</div>
 					</li>
 					<li>

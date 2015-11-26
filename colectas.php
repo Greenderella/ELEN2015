@@ -20,14 +20,6 @@
 				<div class="printSolo">
 				<h2 id="Colecciones">Visitas a la colección del "Instituto y Fundación Miguel Lillo"</h2>
 					Se deberán coordinar turnos con la curadora, Licenciada Emilia Constanza Pérez, a la dirección de correo electrónico: <a href="emiliacperez@hotmail.com.ar">emiliacperez@hotmail.com.ar</a>, y las mismas se podrán realizar preferentemente en horas de la mañana. 
-				<br />
-				<br />
-					<h3>IMPORTANTE:</h3> En la semana siguiente al ELEN, hay dos días no laborables en la Universidad Nacional de Tucumán: el lunes 23 de noviembre (feriado nacional) y el jueves 26 de noviembre (día del empleado no docente de las universidades nacionales).
-				</div>
-				
-				<div class="printSolo">
-				<h2 id="Viajes">Viajes de campo</h2>
-					Es posible que se organice un viaje de colecta durante o al finalizar el encuentro.
 				</div>
 			</div>
 <?php

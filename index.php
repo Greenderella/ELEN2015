@@ -13,9 +13,9 @@
 										ÚLTIMAS NOTICIAS
 									</p>
 								</div>
-								<h3>ELEN 2015</h3>
+								<h3>ELEN 2018</h3>
 								<p>
-									Ya se encuentra disponible la 3era y última circular del V ELEN. <a href="circulares.php">Más...</a>
+									IV ELEN a realizarse en Concepción, comuna chilena perteneciente al área metropolitana del Gran Concepción, una de las conurbaciones urbanas más grandes de Chile, capital de la provincia homónima y la Región del Biobío.
 								</p>
 							</div>
 						</div>
@@ -41,7 +41,7 @@
 					</div>
 					<div class="clear"></div>
 					<div class="info">
-						<h2>V ELEN</h2>
+						<h2>Homenaje</h2>
 						<div id="slider">
 							<a class="control_next">></a>
 							<a class="control_prev"><</a>
@@ -55,9 +55,12 @@
 						</div>
 						<div class="text">
 							<p>
-								Por primera vez, el ELEN se realiza en Argentina, en una de las provincias con mayor diversidad de ambientes del país. Será una oportunidad inmejorable para aquellos que desean conocerla, así como también para los que desean volver. También va a ser una buena oportunidad para consolidar la participación de todos los vinculados a este tema en la región, integrando a nuevos participantes a esta “red lepidopterológica” y dando continuidad a lo realizado en encuentros anteriores.
-								El programa científico sigue una estructura similar a la de encuentros anteriores y se espera que la interacción entre los participantes se vea favorecida por el desarrollo del evento en la Residencia Universitaria de Horco Molle, enclavada en corazón de del cerro San Javier, rodeada de una vegetación exuberante y muchas mariposas. 
-								También será una oportunidad para realizar un homenaje al Dr. Fernando Navarro, quien fuera promotor de la idea que este encuentro se realice aquí y quien brindó multitud de oportunidades para que esta área de investigación entomológica se esté desarrollando actualmente en el país.<br />
+								Al abandonar el mundo físico, dejamos un gran vacío dentro de cada una de las personas que compartieron momentos con nosotros. Pero ante la impotencia y el desaliento, lo que comienza a llenar de a poco ese vacío son los recuerdos, experiencias, aprendizajes y momentos compartidos, lentamente nos alegrarnos y agradecemos porque la vida nos permitió encontrarnos con ese ser y sobre todo por poder compartir esa fracción de tiempo con él. Mi fracción de tiempo probablemente sea menor que las de muchos aquí presentes, pero por esa fracción de tiempo y por lo mucho que me enriqueció, que me ayudo a crecer y que debido y consecuencia de ello estoy acá, en este momento, es que le doy infinitas gracias a la vida y a Fernando donde quiera que esté.
+							<br />
+								Gracias
+							<br />
+							<br />
+							<i>Germán San Blas</i>
 							</p>
 						</div>
 						<div class="clear"></div>
