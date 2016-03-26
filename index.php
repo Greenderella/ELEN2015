@@ -42,10 +42,9 @@
 					<div class="clear"></div>
 					<div class="printSolo">
 						<h2>Homenaje</h2>
-
-						<img src="image/ELEN V Grupo.jpg" title="ELEN V Grupo" />
-						<br />
-						<br />
+							<img src="image/ELEN V Grupo.jpg" title="ELEN V Grupo" />
+							<br />
+							<br />
 						<div class="text">
 							<p>
 								Al abandonar el mundo físico, dejamos un gran vacío dentro de cada una de las personas que compartieron momentos con nosotros. Pero ante la impotencia y el desaliento, lo que comienza a llenar de a poco ese vacío son los recuerdos, experiencias, aprendizajes y momentos compartidos, lentamente nos alegrarnos y agradecemos porque la vida nos permitió encontrarnos con ese ser y sobre todo por poder compartir esa fracción de tiempo con él. Mi fracción de tiempo probablemente sea menor que las de muchos aquí presentes, pero por esa fracción de tiempo y por lo mucho que me enriqueció, que me ayudo a crecer y que debido y consecuencia de ello estoy acá, en este momento, es que le doy infinitas gracias a la vida y a Fernando donde quiera que esté.

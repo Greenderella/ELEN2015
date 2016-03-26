@@ -52,7 +52,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="cronograma.php">
+						<a href="VIELEN.php">
 							<img src="image/2.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
@@ -60,11 +60,11 @@
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="cronograma.php#VIELEN">IV ELEN 2018</a>
+							<a href="VI ELEN.php#VIELEN">VI ELEN 2018</a>
 						</div>
 					</li>
 					<li>
-						<a href="inscripciones.php">
+						<a href="libroresumenes.php">
 						<img src="image/3.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
@@ -72,7 +72,7 @@
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="inscripciones.php#Resumenes">Libro de resúmenes</a>
+							<a href="libroresumenes.php#Resumenes">Libro de resúmenes</a>
 						</div>
 					</li>
 					<li>
@@ -90,7 +90,7 @@
 						</div>
 					</li>
 					<li>
-						<a href="circulares.php">
+						<a href="fotos.php">
 							<img src="image/5.jpg" alt=""/>
 							<span class="sdt_active"></span>
 							<span class="sdt_wrap">
@@ -98,7 +98,7 @@
 							</span>
 						</a>
 						<div class="sdt_box">
-							<a href="circulares.php#Circulares">Galería</a>
+							<a href="fotos.php#Fotos">Galería</a>
 						</div>
 					</li>
 					<li>
